@@ -1,0 +1,677 @@
+﻿case_number,dlc,last_name,first_name,missing_age,city,county,state,sex,race,dlm
+MP150,3/9/00,Roberts,Leah,23,Bellingham,Whatcom,WA,Female,White / Caucasian,5/29/19
+MP787,2/23/93,Allen,Elizabeth,35,Oak Harbor,Island,WA,Female,White / Caucasian,5/21/19
+MP789,4/14/03,Burke,Casey,19,Nespelem,Okanogan,WA,Male,American Indian / Alaska Native,8/21/19
+MP796,4/13/04,Cawston,Tina,36,Nespelem,Okanogan,WA,Female,White / Caucasian,10/2/15
+MP797,12/31/98,Colegrove,Boyd,57,Aberdeen,Grays Harbor,WA,Male,American Indian / Alaska Native,8/27/19
+MP802,11/4/97,DeVoe,Bruce,40,Tenino,Thurston,WA,Male,White / Caucasian,7/17/19
+MP804,9/10/05,Dulaney,Valerie,42,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP836,2/21/69,Flink,Laura,21,Pacific Beach,Grays Harbor,WA,Female,White / Caucasian,8/27/19
+MP837,10/14/04,Holway,Douglas,47,Puyallup,Pierce,WA,Male,White / Caucasian,7/19/18
+MP838,3/22/02,Jarvi,Michael,28,Naselle,Pacific,WA,Male,White / Caucasian,5/30/19
+MP839,2/21/91,Lewis,Reuben,20,Everett,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP841,7/14/82,McDonald,George,34,Omak,Okanogan,WA,Male,American Indian / Alaska Native,8/21/19
+MP842,4/1/89,Mock,Misty,22,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP844,5/20/06,Moore,Joseph,66,Ephrata,Grant,WA,Male,White / Caucasian,11/9/18
+MP851,12/8/05,Ohana,Lyn,49,Port Townsend,Jefferson,WA,Female,White / Caucasian,11/9/18
+MP852,1/5/06,Pichler,Joseph,18,Bremerton,Kitsap,WA,Male,White / Caucasian,11/20/18
+MP1002,11/18/88,Pooler,George,37,Omak,Okanogan,WA,Male,American Indian / Alaska Native,8/21/19
+MP1003,4/14/91,Pooler,Edwin,45,Keller,Okanogan,WA,Male,American Indian / Alaska Native,8/21/19
+MP1004,1/11/01,Rice,Timothy,40,Kennewick,Benton,WA,Male,White / Caucasian,11/9/18
+MP1005,2/6/03,Richards,Michael,28,Woodland,Cowlitz,WA,Male,White / Caucasian,4/8/19
+MP1006,3/4/05,Sample,Delmar,53,Centralia,Lewis,WA,Male,White / Caucasian,12/5/18
+MP1009,4/17/85,Torgeson,Dana,19,Ford,Stevens,WA,Male,White / Caucasian,6/25/19
+MP1020,4/18/98,Valdovinos,Jesus,19,Seattle,King,WA,Male,Multiple,5/22/18
+MP1022,1/4/82,Summers Jr.,William,22,Bremerton,Kitsap,WA,Male,White / Caucasian,9/5/18
+MP1249,12/2/00,Anderson,Sharon,50,Everett,Snohomish,WA,Female,American Indian / Alaska Native,6/18/19
+MP1329,7/4/89,Schubert,Juliana,30,Arlington,Snohomish,WA,Female,White / Caucasian,8/16/19
+MP1349,9/2/01,Engle,Nicole,19,Vancouver,Clark,WA,Female,White / Caucasian,10/19/16
+MP1350,11/8/04,Jenkins,Jessica,30,Vancouver,Clark,WA,Female,White / Caucasian,1/7/15
+MP1557,7/12/04,Sajedi,Jasmine,2,Lynden,Whatcom,WA,Female,White / Caucasian,12/17/18
+MP1632,7/3/75,Cantea,Francis,19,Bremerton,Kitsap,WA,Male,White / Caucasian,11/20/18
+MP1642,4/24/89,Baker,Jeffrey,27,Bremerton,Kitsap,WA,Male,White / Caucasian,6/18/19
+MP1853,1/10/83,Guidroz,Wallace,2,Tacoma,Pierce,WA,Male,Other,5/1/18
+MP2020,3/6/09,Moyer,Nancy,36,Tenino,Thurston,WA,Female,White / Caucasian,7/17/19
+MP2301,9/17/92,Copsey,Misty,14,Tacoma,Pierce,WA,Female,White / Caucasian,12/13/18
+MP2410,3/29/01,Kline,Joseph,42,Vancouver,Clark,WA,Male,White / Caucasian,5/14/19
+MP2716,12/7/71,Grissim,Jamie,16,Vancouver,Clark,WA,Female,White / Caucasian,3/14/19
+MP2768,5/9/09,Collins,Kelsey,18,Everett,Snohomish,WA,Female,Other,1/10/18
+MP2785,4/28/79,White,Christina,12,Asotin,Asotin,WA,Female,White / Caucasian,8/26/19
+MP2816,9/16/87,Weflen,Julie,29,Spokane,Spokane,WA,Female,White / Caucasian,9/6/19
+MP2874,1/24/03,Anderson,Ace,67,Lakebay,Pierce,WA,Male,White / Caucasian,7/24/18
+MP2978,5/1/93,Vannausdle,Consuelo,31,Lacey,Thurston,WA,Female,Asian,12/17/18
+MP2981,6/15/98,Harrison,Jennifer,17,Bremerton,Kitsap,WA,Female,White / Caucasian,10/2/19
+MP3081,5/9/09,Ingram,Richard,56,Fort Lewis,Pierce,WA,Male,White / Caucasian,8/26/19
+MP3896,12/9/07,Napier,Dion,48,Seattle,King,WA,Male,White / Caucasian,6/12/18
+MP4006,2/4/03,Juarez,Sofia,4,Kennewick,Benton,WA,Female,Multiple,11/9/18
+MP4035,3/11/87,Kersey,Kimberly,18,Vancouver,Clark,WA,Female,White / Caucasian,5/20/19
+MP4037,4/7/07,Vu,Khoi,25,Vancouver,Clark,WA,Male,Asian,3/14/19
+MP4305,3/28/04,Tyler,Giovanna,29,Tacoma,Pierce,WA,Female,American Indian / Alaska Native,6/27/19
+MP4398,9/14/76,Greenman,Cherry,20,Waterville,King,WA,Female,White / Caucasian,10/5/19
+MP4408,2/6/96,Phiangdae,Loukthayoth,11,Raymond,Pacific,WA,Male,Asian,8/7/18
+MP4414,2/21/96,Wykel,Robert,65,Seattle,King,WA,Male,White / Caucasian,10/5/19
+MP4420,3/24/96,Roof,Christina,27,Lynden,Whatcom,WA,Female,White / Caucasian,5/29/19
+MP4423,3/2/96,Klungness,Jeffrey,14,Bonney Lake,Pierce,WA,Male,White / Caucasian,11/1/19
+MP4476,9/1/96,Hunter,Mary,35,Oak Harbor,Island,WA,Female,White / Caucasian,10/2/15
+MP4503,8/25/69,Thompson,Dorothy,53,Walla Walla,Walla Walla,WA,Female,White / Caucasian,3/14/19
+MP4527,3/23/03,Alizio,Cherene,32,Seattle,King,WA,Female,White / Caucasian,2/13/18
+MP4528,3/1/86,Allenbach,Elaine,20,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP4581,9/16/70,Miller,Jeannette,17,Arlington,Snohomish,WA,Female,White / Caucasian,8/16/19
+MP4593,8/31/61,Burr,Ann,8,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP4641,7/1/81,Owens,Carla,14,Clearwater,Jefferson,WA,Female,White / Caucasian,11/20/18
+MP4683,5/3/68,Adams,David,8,Issaquah,King,WA,Male,White / Caucasian,10/5/19
+MP4684,5/25/84,Spencer III,Roland,3,Toppenish,Yakima,WA,Male,American Indian / Alaska Native,3/2/17
+MP4728,7/4/86,Colyer,Patricia,37,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP4731,11/6/02,Honey,Debra,41,Tacoma,Pierce,WA,Female,Multiple,6/27/19
+MP4732,12/25/99,Kowalchuk,Tami,17,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP4743,5/26/83,Penson,Karen,31,Tacoma,Pierce,WA,Female,White / Caucasian,4/12/18
+MP4745,11/30/93,Woods,Tommie,50,Tacoma,Pierce,WA,Male,Black / African American,8/12/19
+MP4746,1/20/94,Tucker,Helen,26,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP4753,12/25/09,Riegel,Lawrence,57,Yakima,Yakima,WA,Male,White / Caucasian,9/11/19
+MP4896,9/1/01,Aroner,Lee,51,Seattle,King,WA,Male,White / Caucasian,7/24/18
+MP4905,9/17/09,Schmidt,James,43,Seattle,King,WA,Male,White / Caucasian,6/5/18
+MP4907,7/25/85,Logan,Tasha,15,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP4935,8/22/76,Jolly,Barbara,19,Seattle,King,WA,Female,Black / African American,10/2/19
+MP4980,6/20/07,Schwab,Ryan,32,Lakewood,Pierce,WA,Male,White / Caucasian,6/14/18
+MP4998,5/27/79,Robertson,Elaine,24,Mt. Rainer,Pierce,WA,Female,White / Caucasian,9/12/19
+MP5417,9/21/00,Enyart,Jennifer,16,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP5503,4/1/86,Johnson,Archer,42,Brooklyn,Pacific,WA,Male,White / Caucasian,6/25/19
+MP5609,11/27/09,Claver,Edith,47,Renton,King,WA,Female,American Indian / Alaska Native,7/19/19
+MP5624,12/19/90,Moranda,Julie,31,Yakima,Yakima,WA,Female,White / Caucasian,9/11/19
+MP5679,5/20/85,Rambus,Virginia,19,Seattle,King,WA,Female,Black / African American,1/25/18
+MP5804,11/26/01,Arias,Agueda,3,Longview,Cowlitz,WA,Female,Hispanic / Latino,10/13/19
+MP5814,10/29/79,Bailey,Andria,16,Spanaway,Pierce,WA,Female,White / Caucasian,10/5/19
+MP5836,11/5/92,Becker,Douglas,16,Anacortes,Island,WA,Male,Multiple,7/1/19
+MP5858,3/26/09,Blakeley,Avery,2,Malden,Whitman,WA,Male,Multiple,12/17/18
+MP5875,6/15/74,Bratcher,Jeffrey,7,Ocean Shores,Grays Harbor,WA,Male,White / Caucasian,6/25/19
+MP5896,8/8/77,Burse,Rhonda,21,Burien,King,WA,Female,Black / African American,10/5/19
+MP5914,6/7/00,Camacho,Jonathan,12,Oak Harbor,Island,WA,Male,Hispanic / Latino,5/15/19
+MP5934,10/29/84,Carter,Pollyanne,15,Graham,Pierce,WA,Female,White / Caucasian,1/3/18
+MP5944,12/21/07,Childs,Danica,17,Federal Way,King,WA,Female,Multiple,10/2/19
+MP6026,5/8/87,Downey,William,12,Seattle,King,WA,Male,White / Caucasian,10/5/19
+MP6053,7/7/07,Feebeck,Joshua,15,Concrete,Skagit,WA,Male,White / Caucasian,11/1/19
+MP6080,10/24/07,Frazier,Joseph,17,Tukwila,King,WA,Male,Black / African American,5/23/18
+MP6086,9/25/93,Frye,Ronald,15,Coupeville,Island,WA,Male,White / Caucasian,7/8/19
+MP6107,12/26/84,Garnes,Matthew,16,Tacoma,Pierce,WA,Male,White / Caucasian,9/12/19
+MP6163,9/12/04,Haynes,Richard,11,Kittitas,Kittitas,WA,Male,White / Caucasian,11/20/18
+MP6171,4/9/95,Herda,Bryce,6,Neah Bay,Clallam,WA,Male,American Indian / Alaska Native,1/18/18
+MP6183,8/25/89,Hetzell,Marti,18,Orchards,Clark,WA,Male,Hispanic / Latino,3/14/19
+MP6209,12/21/82,Inman,Tyler,3,Aberdeen,Grays Harbor,WA,Male,White / Caucasian,10/29/19
+MP6241,7/20/95,Jones,Lenoria,3,Tacoma,Pierce,WA,Female,Black / African American,7/26/18
+MP6286,8/12/83,Leblanc,Patricia,15,Seattle,King,WA,Female,White / Caucasian,10/5/19
+MP6299,1/23/99,Lewis,Teekah,2,Tacoma,Pierce,WA,Female,Black / African American,6/27/19
+MP6336,3/21/97,Lyne,Katya,15,Federal Way,King,WA,Female,Hispanic / Latino,4/22/19
+MP6391,7/7/79,Meeker,Angela,13,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP6480,4/15/87,Owens,Alexis,16,Port Orchard,King,WA,Female,White / Caucasian,10/5/19
+MP6496,12/4/74,Partridge,Laurie,17,Spokane,Spokane,WA,Female,White / Caucasian,9/6/19
+MP6581,6/18/85,Robbins,Diane,13,Richland,Benton,WA,Female,White / Caucasian,1/28/19
+MP6740,5/15/85,Traxler,Rima,8,Longview,Cowlitz,WA,Female,White / Caucasian,9/27/19
+MP6782,10/31/82,Vorak,Kristi,13,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP6787,4/24/90,Warde,Darci,16,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP6795,10/21/91,West,Rebecca,12,Spokane,Spokane,WA,Female,White / Caucasian,10/9/19
+MP6803,8/28/06,White,Caleta,18,Auburn,King,WA,Female,Black / African American,10/6/19
+MP6823,8/10/07,Wilson,Angel,17,Spokane,Spokane,WA,Female,White / Caucasian,10/9/19
+MP6834,7/26/04,Wright,Shelby,14,Snohomish,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP7001,8/30/79,Sanchez,Carlota,12,Taholah,Adams,WA,Female,American Indian / Alaska Native,10/2/19
+MP7002,8/30/79,Luscier,Elsie,13,Taholah,Adams,WA,Female,American Indian / Alaska Native,10/2/19
+MP7026,9/2/89,Coffin,Wallace,74,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7027,11/16/88,Barton,Jesse,15,Seattle,King,WA,Male,White / Caucasian,6/25/18
+MP7028,11/13/87,Caldwell,Susan,17,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP7032,4/16/10,Anderson,Rachael,40,Clarkston,Asotin,WA,Female,White / Caucasian,2/27/19
+MP7042,11/5/83,Clemmons,Tonya,26,Seattle,King,WA,Female,Black / African American,10/2/19
+MP7045,9/14/84,Beeson,Corey,26,Seattle,King,WA,Male,White / Caucasian,1/17/18
+MP7049,12/29/89,Larson,Gregory,63,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7050,11/5/87,Mitchell,Paul,37,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7068,2/7/04,MacRae,Robert,25,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7070,3/21/92,Chamorro,Benito,15,Seattle,King,WA,Male,American Indian / Alaska Native,10/19/16
+MP7086,8/11/94,Lenart,Gyula,40,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7088,5/24/96,Davis,Anthony,34,Seattle,King,WA,Male,Black / African American,1/18/18
+MP7108,9/11/91,Jennings,Mark,34,Seattle,King,WA,Male,Black / African American,10/2/19
+MP7117,9/25/92,Gray,Peter,32,Seattle,King,WA,Male,American Indian / Alaska Native,10/2/15
+MP7120,1/29/85,Kores,Wanda,68,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP7126,7/28/97,Huff,Kelly,37,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7127,11/13/77,Kanol (Cannell),Julia,30,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP7130,4/12/77,Kimble,Ronald,23,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7131,7/8/91,McGuirk,Cora,22,Seattle,King,WA,Female,Black / African American,4/5/18
+MP7134,3/14/88,Metcalf,Teresa,14,Seattle,King,WA,Female,White / Caucasian,1/19/17
+MP7137,8/17/82,McWherter,Paul,35,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7138,11/15/76,Prescott Jr,Horace,49,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7143,7/28/89,Poysky,Ronald,25,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7145,5/14/94,Shaw,Lisa,19,Seattle,King,WA,Female,White / Caucasian,10/2/15
+MP7149,4/3/82,Trang,Sieu,13,Seattle,King,WA,Female,Asian,5/17/17
+MP7256,9/20/91,Villegas,Jose,34,Seattle,King,WA,Male,Multiple,11/2/18
+MP7258,2/20/70,Williams,Gladys,19,Seattle,King,WA,Female,Black / African American,10/2/19
+MP7264,10/2/08,Griffin,Lesa,17,Seattle,King,WA,Female,Other,5/17/17
+MP7265,4/9/02,Mulu,Gebeyanesh,18,Seattle,King,WA,Female,Black / African American,10/2/15
+MP7275,8/13/99,Winston,Tiffany,15,Seattle,King,WA,Female,Black / African American,10/2/19
+MP7276,3/13/92,Walker,Sue,32,Seattle,King,WA,Female,White / Caucasian,10/2/15
+MP7278,1/22/98,White,Odessa,17,Seattle,King,WA,Female,American Indian / Alaska Native,11/15/17
+MP7280,8/1/07,Cardenas,Fernando,35,Seattle,King,WA,Male,Multiple,1/18/18
+MP7288,10/29/90,Moore,Linda,29,Seattle,King,WA,Female,White / Caucasian,10/8/19
+MP7290,12/16/72,Wells,Christopher,16,Seattle,King,WA,Male,White / Caucasian,6/25/18
+MP7292,4/27/08,Russell,Patricia,50,Seattle,King,WA,Female,Black / African American,10/2/15
+MP7295,4/11/85,Washington Jr.,Bennie,40,Seattle,King,WA,Male,Black / African American,10/2/19
+MP7304,4/9/02,Meyers,James,87,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7308,5/14/02,Cumming,Nicholas,29,Seattle,King,WA,Male,White / Caucasian,1/18/18
+MP7309,2/24/90,Alley,John,29,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP7493,3/20/85,Duffy,Christopher,16,Unknown,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7496,7/28/89,Turpin,Daniel,26,Lakewood,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7503,9/12/96,Maitland,Michelle,29,Olympia,Pierce,WA,Female,White / Caucasian,1/8/19
+MP7504,8/2/99,Pilkey,Peter,42,Tacoma,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7547,1/7/87,Hoober,David,39,Gig Harbor,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7548,8/9/93,Hoppes Bennett,Susan,45,Tacoma,Pierce,WA,Female,White / Caucasian,9/12/19
+MP7559,12/28/03,O'Neill,Jynenne,42,Olympia,Pierce,WA,Female,Black / African American,11/1/18
+MP7560,6/1/09,Munro,Robert,25,University Place,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7697,4/13/02,Carpenter,Kevin,34,Lacey,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7738,5/2/05,Kuich,Pamela,42,Tacoma,Pierce,WA,Female,White / Caucasian,9/12/19
+MP7740,2/18/00,Choi,Kyung,27,Unknown,Pierce,WA,Female,Asian,9/12/19
+MP7742,7/19/02,Christiansen,Elvin,69,Unknown,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7752,9/12/01,Beck,Janice,52,Tacoma,Pierce,WA,Female,White / Caucasian,10/11/16
+MP7761,5/4/99,Ferguson III,Douglas,28,Unknown,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7791,3/5/03,Cooper,Darlene,38,Unknown,Pierce,WA,Female,White / Caucasian,9/12/19
+MP7793,11/19/80,Long,Cynthia,28,Graham,Pierce,WA,Female,White / Caucasian,9/12/19
+MP7794,8/12/78,Nace,George,36,Lakewood,Pierce,WA,Male,White / Caucasian,9/12/19
+MP7805,6/6/94,Price,Florence,42,Unknown,Pierce,WA,Female,White / Caucasian,9/12/19
+MP7958,1/2/81,Edwards,Carol,25,Seattle,King,WA,Female,White / Caucasian,10/5/19
+MP7989,3/17/04,Korvin,Joshua,29,Mount Vernon,Skagit,WA,Male,Multiple,2/14/19
+MP8375,12/8/97,Sledge,Lisa,28,Marysville,Snohomish,WA,Female,White / Caucasian,12/17/18
+MP8491,8/2/10,Mouton,Danielle,24,Tacoma,Pierce,WA,Female,Black / African American,9/12/19
+MP8789,2/28/86,Lawrence,Richard,63,Tacoma,Pierce,WA,Male,Black / African American,6/7/18
+MP8804,5/26/95,Brazzel,Tracey,22,Lynnwood,Snohomish,WA,Female,White / Caucasian,8/16/19
+MP9298,10/2/10,Krieger,Patricia,65,RockPort,Skagit,WA,Female,White / Caucasian,11/1/19
+MP9340,9/20/10,Higgins,Heather,39,Spokane,Spokane,WA,Female,White / Caucasian,10/2/19
+MP9629,5/3/06,Duna,Iulian,27,Auburn,King,WA,Male,White / Caucasian,10/5/19
+MP9695,4/9/09,McLemore,Alyssa,21,Kent,King,WA,Female,American Indian / Alaska Native,4/22/19
+MP9837,3/5/11,Perez,Marizela,18,Seattle,King,WA,Female,Asian,5/16/17
+MP9848,2/21/93,Gilchrist,David,30,Steilacoom,Pierce,WA,Male,White / Caucasian,9/12/19
+MP9934,1/1/01,Wilk,Michael,36,Renton,King,WA,Male,White / Caucasian,10/5/19
+MP10102,12/27/96,Lewellen,Phylis,36,Kelso,Cowlitz,WA,Female,White / Caucasian,4/8/19
+MP10196,3/27/73,Blankinship,Jeffrey,3,Port Townsend,Jefferson,WA,Male,White / Caucasian,3/18/19
+MP10414,11/4/81,Gregory,Kathryn,24,Spokane,Spokane,WA,Female,White / Caucasian,10/2/19
+MP10584,7/4/88,Diaz,Margaret,32,Tacoma,Pierce,WA,Female,Other,3/31/15
+MP10777,11/26/01,Castro,Guadalupe,23,Longview,Cowlitz,WA,Female,Hispanic / Latino,9/27/19
+MP10877,2/7/11,Kindness,Ruthie,20,Parkland,Pierce,WA,Female,American Indian / Alaska Native,10/6/19
+MP11140,9/27/86,Fullerton,Michael,26,Seattle,King,WA,Male,White / Caucasian,10/5/19
+MP11679,4/21/08,Bemis,Nathan,22,Sumner,Pierce,WA,Male,White / Caucasian,9/12/19
+MP11736,1/2/11,Riaz,Mansoor,31,Bellevue,King,WA,Male,White / Caucasian,8/10/19
+MP11737,11/24/10,Wekesa,Eugene,22,Bellevue,King,WA,Male,Black / African American,8/10/19
+MP11810,10/21/68,Winter,Verla,28,Kent,King,WA,Female,White / Caucasian,3/5/19
+MP11854,9/3/85,Eisel,Elizabeth,23,Seattle,King,WA,Female,White / Caucasian,8/10/19
+MP11878,4/29/11,Munoz,Benjamin,32,Tukwila,King,WA,Male,Multiple,10/5/19
+MP11898,6/1/85,Jaillet,Julianne,36,Bellevue,King,WA,Female,White / Caucasian,8/10/19
+MP11920,7/31/09,James,Meera,56,Tacoma,Pierce,WA,Female,Asian,9/12/19
+MP11921,7/9/09,Lanning,Mark,43,Orting,Pierce,WA,Male,White / Caucasian,9/12/19
+MP11924,3/22/09,Pasola,Shawn,44,Puyallup,Pierce,WA,Female,White / Caucasian,9/12/19
+MP11981,1/27/75,Davis,Nellie,35,Duvall,King,WA,Female,White / Caucasian,10/5/19
+MP12087,7/18/90,Cummings,Beverly,53,Federal Way,King,WA,Female,White / Caucasian,10/5/19
+MP12099,10/26/94,Needham,Steven,24,Bellevue,King,WA,Male,White / Caucasian,8/10/19
+MP12211,2/8/05,Houston,Shawn,28,Brinnon,Jefferson,WA,Male,White / Caucasian,11/20/18
+MP12230,3/9/63,Giusti,Sharon,20,Port Townsend,Jefferson,WA,Female,White / Caucasian,4/11/19
+MP12238,8/22/86,Linton,Robert,62,Brinnon,Jefferson,WA,Male,White / Caucasian,11/20/18
+MP12240,8/22/86,Linton,Dagmar,59,Brinnon,Jefferson,WA,Female,White / Caucasian,11/20/18
+MP12257,6/2/11,Gilbert,Angela,41,Granite Falls,Snohomish,WA,Female,White / Caucasian,8/16/19
+MP12258,7/25/94,Eaton,Rose,73,Chimicum,Jefferson,WA,Female,White / Caucasian,11/20/18
+MP12482,8/31/04,Meyers,Richard,50,Forks,Clallam,WA,Male,White / Caucasian,2/18/19
+MP12524,5/5/10,Croft-Payne,Kayla,18,Vader,Lewis,WA,Female,White / Caucasian,4/8/19
+MP12694,6/30/11,Tews,Betty,81,Oak Harbor,Island,WA,Female,White / Caucasian,5/15/19
+MP12711,11/24/02,Horton,Daniel,43,Port Angeles,Clallam,WA,Male,White / Caucasian,11/20/18
+MP12737,6/5/00,Denman,Tina,15,Lakewood,Pierce,WA,Female,White / Caucasian,1/17/18
+MP12738,9/26/04,Garcia,Jose,17,Tacoma,Pierce,WA,Male,White / Caucasian,9/12/19
+MP12742,8/1/03,Patten-Shephard,Morae,35,Tacoma,Pierce,WA,Female,Black / African American,9/12/19
+MP12743,11/17/07,Rodriguez,Maria,15,Tacoma,Pierce,WA,Female,Multiple,9/12/19
+MP12845,7/8/11,Najera,Alfonso,40,Everett,Snohomish,WA,Male,Multiple,8/16/19
+MP12873,3/2/83,Bell,Gary,33,Tacoma,Pierce,WA,Male,White / Caucasian,9/6/19
+MP13013,9/1/11,Orourke,Daniel,64,Hoquiam,Grays Harbor,WA,Male,White / Caucasian,4/23/19
+MP13040,10/27/11,Scott,Miguel,19,Bremerton,Kitsap,WA,Male,Asian,10/2/19
+MP13169,11/8/11,Bryden,Lorill,48,Bellevue,King,WA,Female,White / Caucasian,11/20/18
+MP13544,11/6/11,Metalwala,Sky,2,Bellevue,King,WA,Male,White / Caucasian,8/10/19
+MP13594,1/1/12,Ha,Jennifer,17,Vancouver,Clark,WA,Female,Asian,5/14/19
+MP13656,10/12/62,Selby,Bernice,27,Everett,Snohomish,WA,Female,White / Caucasian,8/16/19
+MP13658,2/14/11,Startzel,Jeffrey,51,Elk,Spokane,WA,Male,White / Caucasian,9/6/19
+MP13660,8/26/71,Conner,Kevin,13,Port Angeles,Clallam,WA,Male,White / Caucasian,2/18/19
+MP13661,8/26/71,Peal,Mark,10,Port Angeles,Clallam,WA,Male,White / Caucasian,2/18/19
+MP13670,3/1/51,Matlock,Alvin,21,Spokane,Spokane,WA,Male,White / Caucasian,9/6/19
+MP13796,9/18/11,Reising,Daniel,52,Tacoma,Pierce,WA,Male,White / Caucasian,9/12/19
+MP13826,7/24/06,Tadesse,Beza,26,Seattle,King,WA,Male,Black / African American,10/5/19
+MP13907,4/17/89,Newcombe,Ralph,35,Seattle,King,WA,Male,White / Caucasian,10/5/19
+MP13921,8/10/62,Hansen,Joan,30,Des Moines,King,WA,Female,White / Caucasian,10/5/19
+MP14016,5/3/83,Jackson,Linda,19,Seattle,King,WA,Female,American Indian / Alaska Native,10/5/19
+MP14018,6/1/73,Signani,Salie,32,Renton,King,WA,Female,White / Caucasian,10/5/19
+MP14065,5/19/82,Bull,Robin,37,Issaquah,King,WA,Female,White / Caucasian,10/5/19
+MP14069,3/5/87,Mulhern,Doris,21,Federal Way,King,WA,Female,White / Caucasian,10/5/19
+MP14071,12/8/76,Endorf,Linda,31,Tukwila,King,WA,Female,White / Caucasian,10/5/19
+MP14096,10/25/90,Wims,Deborah,31,Seattle,King,WA,Female,Black / African American,8/7/18
+MP14106,1/1/73,Burrows,Pamela,23,Seattle,King,WA,Female,White / Caucasian,10/5/19
+MP14129,8/28/82,Lee,Kase,16,Seattle,King,WA,Female,White / Caucasian,10/5/19
+MP14131,6/28/83,McGinniss,Kelly,18,Des Moines,King,WA,Female,White / Caucasian,10/5/19
+MP14132,10/20/83,Osborn,Patricia,19,Seattle,King,WA,Female,Black / African American,10/5/19
+MP14141,11/1/95,Caine,Jimmie,24,Seattle,King,WA,Female,Black / African American,10/5/19
+MP14223,11/1/73,Davis,Teresa,18,Tacoma,Pierce,WA,Female,American Indian / Alaska Native,10/5/19
+MP14225,1/1/72,Watson,Alisa,14,Tacoma,Pierce,WA,Female,Black / African American,10/5/19
+MP14227,6/2/77,Stone,Myrna,38,Shoreline,King,WA,Female,White / Caucasian,10/5/19
+MP14228,1/1/75,Lhotka,Lorelee,19,Seattle,King,WA,Female,Uncertain,10/5/19
+MP14230,1/1/82,Sanders,Louise,36,Seattle,King,WA,Female,White / Caucasian,10/5/19
+MP14236,12/14/58,Anderson,Nancy,60,Palmer,King,WA,Female,White / Caucasian,10/5/19
+MP14240,7/10/73,Siskar,Donald,18,Enumclaw,King,WA,Male,White / Caucasian,10/5/19
+MP14243,12/17/78,Chambers,Ronald,28,SeaTac,King,WA,Male,White / Caucasian,10/5/19
+MP14260,6/25/88,Schone,Max,80,Skykomish,King,WA,Male,White / Caucasian,5/21/18
+MP14266,11/3/78,McClure,Barbara,24,Seattle,King,WA,Female,White / Caucasian,11/29/17
+MP14267,4/19/86,Klopfenstein,Kenneth,34,Bellevue,King,WA,Male,White / Caucasian,10/5/19
+MP14271,11/28/81,Keenan,Robert,56,Seattle,King,WA,Male,White / Caucasian,5/8/18
+MP14272,3/1/77,Sampson,David,21,Seattle,King,WA,Male,White / Caucasian,10/23/19
+MP14273,11/28/84,Larson,Donald,35,Seattle,King,WA,Male,White / Caucasian,10/5/19
+MP14274,3/2/85,Daily,Kenneth,16,Redmond,King,WA,Male,White / Caucasian,10/5/19
+MP14277,11/20/00,McCluskey,Alvin,84,Renton,King,WA,Male,White / Caucasian,10/2/15
+MP14278,12/28/95,Lyons,Charles,42,Vashon,King,WA,Male,White / Caucasian,10/5/19
+MP14279,4/17/96,Sam,Anthony,29,Auburn,King,WA,Male,American Indian / Alaska Native,10/5/19
+MP14291,6/27/90,Putnam,Ronald,48,Kirkland,King,WA,Male,White / Caucasian,10/5/19
+MP14292,11/5/88,Scholz,Jason,20,Black Diamond,King,WA,Male,White / Caucasian,10/26/18
+MP14296,9/14/84,Johanson,Robert,66,Issaquah,King,WA,Male,White / Caucasian,10/5/19
+MP14297,8/15/82,Stewart,Reba,46,Federal Way,King,WA,Female,American Indian / Alaska Native,2/2/16
+MP14317,1/25/86,Humenik,Keith,16,Anacortes,Skagit,WA,Male,White / Caucasian,11/1/19
+MP14318,5/18/90,Chandler,Stanley,23,Seattle,King,WA,Male,Black / African American,4/4/18
+MP14322,7/20/90,Herding,Irene,75,Darrington,Snohomish,WA,Female,White / Caucasian,10/5/19
+MP14324,12/1/91,Kamrath,Neil,38,Ravensdale,King,WA,Male,White / Caucasian,10/5/19
+MP14339,1/28/92,Zeidell,Kenneth,44,Redmond,King,WA,Male,White / Caucasian,10/5/19
+MP14341,6/16/93,Hargis,Michael,33,Seattle,King,WA,Male,White / Caucasian,10/5/19
+MP14343,7/10/93,Gochanour,Rory,34,Redmond,King,WA,Male,White / Caucasian,10/5/19
+MP14348,7/17/95,Fey,Ramona,39,Longmire - Ashford,Pierce,WA,Female,White / Caucasian,8/5/17
+MP14353,9/4/95,Shannon,William,47,Skykomish,King,WA,Male,White / Caucasian,10/5/19
+MP14363,11/18/97,Weisz,John,29,Auburn,King,WA,Male,White / Caucasian,10/5/19
+MP14368,11/12/03,Delaney,Donald,60,Shoreline,King,WA,Male,White / Caucasian,10/5/19
+MP14400,10/27/03,Renshaw,Austin,22,Maple Valley,King,WA,Male,White / Caucasian,10/5/19
+MP14406,1/31/05,Spann,Kyeimah,6,Seattle,King,WA,Female,Black / African American,8/27/15
+MP14410,11/9/98,Nguyen,Nguyet,32,Seattle,King,WA,Female,Asian,11/9/18
+MP14587,12/27/10,Anderson,Thomas,62,Shoreline,King,WA,Male,White / Caucasian,10/5/19
+MP14590,12/13/08,Anderson,Steven,22,Redmond,King,WA,Male,White / Caucasian,10/5/19
+MP14592,11/7/08,Fuda,Austin,13,Auburn,King,WA,Male,White / Caucasian,10/5/19
+MP14601,3/26/10,Bradshaw,John,64,Kirkland,King,WA,Male,White / Caucasian,10/2/15
+MP14617,10/27/99,Delaney,Michael,35,Tacoma,Pierce,WA,Male,White / Caucasian,6/27/19
+MP14621,2/26/86,Welcher,Alexander,72,Tacoma,Pierce,WA,Male,White / Caucasian,6/27/19
+MP14622,7/26/82,King,Debra,22,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP14832,10/7/09,Holmes,Brock,23,Sultan,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP14856,2/21/12,Schrattenholzer,Jonathan,20,Clarkston,Asotin,WA,Male,White / Caucasian,2/27/19
+MP15084,2/28/08,Rudy,Michael,45,Tacoma,Pierce,WA,Male,White / Caucasian,6/27/19
+MP15090,4/12/12,Moore,Ramon,55,Tacoma,Pierce,WA,Male,Multiple,6/27/19
+MP15138,11/26/98,Brown,Sharon,40,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP15141,8/24/93,Thompson,Misty,14,Woodland,Cowlitz,WA,Female,White / Caucasian,4/8/19
+MP15149,9/16/11,Thompson,Brandon,28,Bainbridge Island,Kitsap,WA,Male,White / Caucasian,1/30/19
+MP15162,1/3/91,Tucker,Karen,40,Port Angeles,Clallam,WA,Female,White / Caucasian,2/18/19
+MP15192,11/14/08,Krebser,Robin,44,Tacoma,Pierce,WA,Male,White / Caucasian,10/2/15
+MP15198,6/16/06,Winns,Chanier,18,Tacoma,Pierce,WA,Male,Black / African American,6/27/19
+MP15199,9/6/03,Johnson,Dustin,24,Seattle,King,WA,Male,White / Caucasian,6/27/19
+MP15200,11/23/79,Vandermeer,Thomas,37,Tacoma,Pierce,WA,Male,White / Caucasian,6/27/19
+MP15250,7/1/84,Colon Seda,Maria,29,Tacoma,Pierce,WA,Female,Multiple,9/12/19
+MP15259,1/18/09,Greene,Trenton,18,Bonney Lake,Pierce,WA,Male,White / Caucasian,6/27/19
+MP15381,8/8/11,Margarito Sanchez,Misael,16,Snohomish,Snohomish,WA,Male,Hispanic / Latino,8/16/19
+MP15607,10/7/97,March Jr.,Harry,76,Sultan,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP16969,4/15/12,Shiflet,Raymond,47,Federal Way,King,WA,Male,White / Caucasian,4/22/19
+MP16985,10/29/02,Zakia,Shannaz,29,Seatac,King,WA,Female,Asian,5/18/16
+MP17607,9/15/12,Mann,Cecil,76,Port Orchard,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP17790,3/20/78,Kennedy,Joyce,44,Seattle,King,WA,Female,White / Caucasian,11/1/19
+MP17959,7/23/77,Boniske,David,21,Olympia,Thurston,WA,Male,White / Caucasian,7/17/19
+MP18105,8/4/94,Hissom,Michael,29,Ilwaco,Pacific,WA,Male,White / Caucasian,4/16/19
+MP18168,6/27/85,Gomez,Augustine,27,Otello,Adams,WA,Male,Hispanic / Latino,11/4/19
+MP18207,8/16/12,Wirkkala,Traci,41,Naselle,Pacific,WA,Female,White / Caucasian,9/5/19
+MP18215,6/28/79,Otis,Debra,18,Anacortes,Skagit,WA,Female,American Indian / Alaska Native,11/1/19
+MP18217,12/24/83,Civille,Christine,31,Conway,Skagit,WA,Female,White / Caucasian,11/1/19
+MP18219,1/25/86,Beirnes,Anthony,17,Anacortes,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18221,1/25/86,Zimny,Mitchell,17,Anacortes,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18223,7/11/90,Bremer,Eugene,74,Mount Vernon,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18224,12/24/92,Stewart,Arlene,49,Concrete,Skagit,WA,Female,White / Caucasian,11/1/19
+MP18231,1/13/12,Diaz-DeLeon,Dale,38,Vancouver,Clark,WA,Male,Multiple,3/14/19
+MP18349,3/7/10,Honebrink,Denis,57,Federal Way,King,WA,Male,White / Caucasian,10/2/19
+MP18350,11/5/05,Shuster,Danny,48,Port Angeles,Clallam,WA,Male,White / Caucasian,11/9/18
+MP18360,6/10/94,Scheer,Lisa,32,Auburn,King,WA,Female,White / Caucasian,10/6/19
+MP18364,4/29/96,Kalous,Joe,24,Concrete,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18368,3/3/97,Forbes,Bryce,58,La Conner,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18369,7/17/97,Duxbury,James,64,Concrete,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18370,9/16/97,McDonald,Jessica,21,LaConner,Skagit,WA,Female,American Indian / Alaska Native,11/1/19
+MP18371,12/29/97,Zalcberg,Andrew,27,Sedro Woolley,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18372,7/10/00,Barker,Michael,35,Marblemount,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18380,3/18/04,Backlund,Bruce,61,Anacortes,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18469,1/24/80,Gartner,Vincent,23,North Bend,King,WA,Male,White / Caucasian,10/5/19
+MP18477,5/22/06,Morrison,Brian,25,Sedro Woolley,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18478,4/15/07,Pfluger,Jakeob,20,Sedro Woolley,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18480,5/19/08,Booth,Shari,20,Anacortes,Skagit,WA,Female,White / Caucasian,11/1/19
+MP18481,11/22/08,Miller,Virgil,59,Mount Vernon,Skagit,WA,Male,White / Caucasian,11/1/19
+MP18555,7/17/95,Heidenreich,Mike,20,Seattle,King,WA,Male,White / Caucasian,1/18/18
+MP18581,8/1/08,Lopeman,Robert,51,Longview,Cowlitz,WA,Male,White / Caucasian,9/27/19
+MP19039,6/11/74,Hawkins,Georgann,18,Seattle,King,WA,Female,White / Caucasian,4/25/18
+MP19097,1/21/96,Svoboda,Dennis,47,Longview,Cowlitz,WA,Male,White / Caucasian,4/8/19
+MP19132,5/31/12,Kachur,Gregory,49,Spokane Valley,Spokane,WA,Male,White / Caucasian,9/6/19
+MP19177,2/6/12,Sine,Robert,18,Mount Vernon,Skagit,WA,Male,White / Caucasian,4/13/16
+MP19181,12/15/12,Nooney,Sean,26,Gig Harbor,Pierce,WA,Male,White / Caucasian,8/26/19
+MP19222,7/20/87,Chapman,Arthur,68,Kalama,Cowlitz,WA,Male,White / Caucasian,4/8/19
+MP19260,4/9/03,Gray,Cameron,23,Spangle,Spokane,WA,Male,White / Caucasian,9/6/19
+MP19272,1/3/13,Ruppert,Kurt,29,North Bend,King,WA,Male,White / Caucasian,1/23/18
+MP19338,2/8/83,Guy,Heather,29,Vancouver,Clark,WA,Female,White / Caucasian,8/12/19
+MP19384,10/16/90,Sims,Kelly,27,Kelso,Cowlitz,WA,Female,American Indian / Alaska Native,5/20/19
+MP19443,4/19/01,Garcia,Jose,1 Year,Longview,Cowlitz,WA,Male,Hispanic / Latino,1/24/18
+MP19539,6/24/81,Thrasher,Robert,29,Spokane,Spokane,WA,Male,White / Caucasian,9/6/19
+MP19550,9/13/99,Orr,John,49,Spokane,Spokane,WA,Male,White / Caucasian,9/6/19
+MP19552,11/18/96,Rice,Shawn,28,Spokane,Spokane,WA,Male,White / Caucasian,9/6/19
+MP19553,11/4/98,Buckley,Paul,46,Spokane,Spokane,WA,Male,White / Caucasian,9/6/19
+MP19563,12/30/88,Deetz,John,38,Spokane Valley,Spokane,WA,Male,White / Caucasian,9/6/19
+MP19604,5/19/68,Mathews,Jesse,48,Spokane,Spokane,WA,Male,American Indian / Alaska Native,9/6/19
+MP19747,8/30/78,Joyce,Marcia,28,Bellingham,Whatcom,WA,Female,White / Caucasian,5/29/19
+MP19834,12/16/12,Dacier,Daniel,36,Tacoma,Pierce,WA,Male,Asian,9/12/19
+MP19835,11/18/12,Puga-Gutierrez,Ricardo,44,Puyallup,Pierce,WA,Male,Multiple,9/12/19
+MP19928,4/11/97,Patten,Lester,48,Vancouver,Clark,WA,Male,White / Caucasian,6/25/18
+MP20024,7/15/11,Aarlie,John,52,Yakima,Yakima,WA,Male,White / Caucasian,4/12/19
+MP20083,5/9/91,Phung,Nguyet,19,Lynnwood,Snohomish,WA,Female,Asian,5/28/19
+MP20122,11/11/95,Killaby,Carolyn,34,Orchards,Clark,WA,Female,White / Caucasian,3/14/19
+MP20123,8/9/92,"Koller, Sr.",Charles,56,Bremerton,Kitsap,WA,Male,White / Caucasian,11/20/18
+MP20124,6/16/78,Howard,June,26,Kennewick,Benton,WA,Female,White / Caucasian,11/9/18
+MP20194,11/25/95,Davidson,Russell,38,Walla Walla,Walla Walla,WA,Male,White / Caucasian,8/23/18
+MP20274,4/11/13,Todd,Robert,20,Auburn,King,WA,Male,White / Caucasian,10/6/19
+MP20296,1/17/96,Carey,Sharman,39,Puyallup,Pierce,WA,Female,White / Caucasian,12/13/18
+MP20314,7/7/94,Maillard V,Henri,20,Packwood,Lewis,WA,Male,White / Caucasian,12/5/18
+MP20343,9/16/94,Miles,Stephanie,33,Puyallup,Pierce,WA,Female,White / Caucasian,7/31/19
+MP20347,5/29/74,Gilchrist,Diane,14,Vancouver,Clark,WA,Female,White / Caucasian,7/29/19
+MP20399,12/28/89,Thompson,Glenn,33,Quincy,Grant,WA,Male,White / Caucasian,8/29/18
+MP20410,4/23/91,Marable,Susan,34,Yakima,Yakima,WA,Female,White / Caucasian,9/18/19
+MP20412,8/1/11,Fisher,Edward,67,Brush Prairie,Clark,WA,Male,White / Caucasian,3/14/19
+MP20463,7/20/06,McLean,James,56,Puyallup,Pierce,WA,Male,White / Caucasian,6/20/18
+MP20468,11/11/01,O'Cain,Rex,49,Castle Rock,Cowlitz,WA,Male,White / Caucasian,11/9/18
+MP20507,2/21/13,Perez-Gonzalez,Ener,43,Aberdeen,Grays Harbor,WA,Male,Multiple,8/27/19
+MP20570,5/28/12,Whitlock,Jacob,13,Camas,Clark,WA,Male,White / Caucasian,6/25/18
+MP20715,6/9/13,Kelly,Maureen,19,Cougar,Skamania,WA,Female,Asian,12/14/18
+MP20950,8/15/98,Olmstead,Russell,24,Ellisforde,Okanogan,WA,Male,White / Caucasian,5/9/19
+MP20998,11/19/81,Small,Marty,47,Seattle,King,WA,Male,White / Caucasian,6/4/18
+MP21439,5/10/13,Viorato-Rodriguez,Alex,16,Kelso,Cowlitz,WA,Male,Multiple,4/8/19
+MP21574,10/12/09,Brown,Galina,59,Shohomish,Snohomish,WA,Female,White / Caucasian,8/16/19
+MP21729,11/15/92,Echeandia,Victor,46,Auburn,King,WA,Male,White / Caucasian,10/6/19
+MP21781,11/23/97,Valenti,Cheryl,33,Vancouver,Clark,WA,Female,White / Caucasian,5/14/19
+MP21953,6/1/78,Adams,Linda,15,Yakima,Yakima,WA,Female,White / Caucasian,8/16/19
+MP21965,9/5/02,Gigena,Jared,20,Rainer,Thurston,WA,Male,White / Caucasian,7/17/19
+MP22067,9/1/12,Mikailians,Samson,45,Bellevue,King,WA,Male,White / Caucasian,8/10/19
+MP22082,9/30/90,Sherer,Jami,26,Redmond,King,WA,Female,White / Caucasian,11/20/18
+MP22275,7/2/06,Ehrgott,James,73,Spokane,Spokane,WA,Male,White / Caucasian,10/2/19
+MP22338,8/3/06,Swineheart,Scott,38,Spokane,Spokane,WA,Male,White / Caucasian,10/2/19
+MP22339,8/19/04,Flores,Ildefonso,59,Spokane,Spokane,WA,Male,Multiple,10/2/19
+MP22395,5/22/12,Zuniga,Frank,49,Spokane,Spokane,WA,Male,White / Caucasian,10/2/19
+MP22412,1/21/11,Kelly,Dennis,37,Vancouver,Clark,WA,Male,White / Caucasian,1/23/18
+MP22432,8/18/98,Hams,Daryle,44,Spokane,Spokane,WA,Male,White / Caucasian,10/13/19
+MP22473,3/27/96,Numata,Jerry,77,Spokane,Spokane,WA,Male,Asian,10/2/19
+MP22476,7/1/96,Cox,Jon,26,Spokane,Spokane,WA,Male,White / Caucasian,10/2/19
+MP22502,3/21/97,Cruser,Penney,30,Spokane,Spokane,WA,Female,White / Caucasian,10/2/19
+MP22522,3/1/91,Brown,Dale,30,Spokane,Spokane,WA,Male,White / Caucasian,10/2/19
+MP22547,8/26/94,Willis,Christine,27,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP22548,10/20/93,Baker,Michelle,25,Spokane,Spokane,WA,Female,White / Caucasian,10/2/19
+MP22551,10/10/92,Stone,Roseann,35,Spokane,Spokane,WA,Female,Black / African American,10/2/19
+MP22576,6/1/93,Champagne,Michaelle,29,Spokane,Spokane,WA,Female,White / Caucasian,10/2/19
+MP22601,8/7/87,Akkerman,John,27,Spokane,Spokane,WA,Male,White / Caucasian,10/2/19
+MP22614,9/22/13,Bacon,Gregory,66,Edmonds,Snohomish,WA,Male,White / Caucasian,7/30/19
+MP22686,6/9/09,Williams,James,59,Marblemount,Skagit,WA,Male,White / Caucasian,11/1/19
+MP22715,12/13/77,Burns,Mary,30,Bothell,King,WA,Female,White / Caucasian,5/8/19
+MP22746,9/26/05,Chen,Rueyming,48,Bellevue,King,WA,Male,Asian,8/10/19
+MP22759,5/12/93,Watson,Delight,40,Lacy,Thurston,WA,Female,White / Caucasian,7/17/19
+MP22760,9/18/87,Hill,Allan,30,Yelm,Thurston,WA,Male,White / Caucasian,7/17/19
+MP22761,3/12/74,Manson,Donna,19,Olympia,Thurston,WA,Female,White / Caucasian,7/17/19
+MP22762,1/1/63,"Bridgeman, Jr.",Christopher,33,Unknown,Thurston,WA,Male,White / Caucasian,7/17/19
+MP22763,6/24/06,Gilman,Gilbert,47,Hoodsport,Thurston,WA,Male,White / Caucasian,7/17/19
+MP22764,4/28/01,Dickerman,Michelle,41,Lacy,Thurston,WA,Female,White / Caucasian,7/17/19
+MP22765,3/13/10,Smiley,Shantina,29,Olympia,Thurston,WA,Female,White / Caucasian,7/17/19
+MP22893,3/14/76,Gesler,Esther,37,Kent,King,WA,Female,White / Caucasian,3/18/19
+MP22894,3/27/73,Blankinship,Althea,23,Hadlock,Jefferson,WA,Female,White / Caucasian,3/18/19
+MP22999,8/24/79,Hagen,Titanic,26,Marysville,Snohomish,WA,Male,White / Caucasian,10/23/19
+MP23010,11/11/97,Hanson,Chet,27,Mount Ranier,Lewis,WA,Male,White / Caucasian,6/6/18
+MP23034,11/21/13,Sconawah,Roland,23,Dallesport,Klickitat,WA,Male,American Indian / Alaska Native,8/14/19
+MP23090,8/12/05,Weston,Zachary,22,Mt. Ranier National Park,Lewis,WA,Male,White / Caucasian,5/31/18
+MP23114,10/19/73,Duffy Jr.,James,2,Leavenworth,Chelan,WA,Male,White / Caucasian,5/2/19
+MP23131,6/8/13,Hendrickson,Hildegard,79,Leavenworth,Chelan,WA,Female,White / Caucasian,2/11/19
+MP23217,11/12/13,Bennett,Willard,73,Olympia,Thurston,WA,Male,White / Caucasian,10/16/18
+MP23251,6/16/84,Cooke,Susan,29,Cle Elum,Kittitas,WA,Female,White / Caucasian,8/12/19
+MP23261,7/19/97,Graham,Darrell,37,Cle Elum,Kittitas,WA,Male,White / Caucasian,11/20/18
+MP23284,10/21/13,Canfield,Kayann,24,Wapato,Yakima,WA,Female,White / Caucasian,8/16/19
+MP23370,7/5/05,Brown,Gregrey,48,Snoqualmie Pass,Kittitas,WA,Male,White / Caucasian,11/20/18
+MP23390,7/8/99,"Wood, Jr",Joseph,34,Mt. Rainier Nat. Park,Lewis,WA,Male,Black / African American,2/14/14
+MP23411,1/1/14,Bernal-Valenzuela,Joaquin,45,Orondo,Chelan,WA,Male,Multiple,2/11/19
+MP23678,9/29/13,Zitzewitz,Kristopher,31,Gifford Pinchot National Forest,Skamania,WA,Male,White / Caucasian,12/14/18
+MP23720,11/4/12,Boyle,David,48,Marysville,Snohomish,WA,Male,White / Caucasian,12/17/18
+MP24057,4/29/80,Weisenburger,John,83,Sultan,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP24097,12/24/07,Bannister,Clark,53,Westport,Grays Harbor,WA,Male,White / Caucasian,11/9/18
+MP24117,12/10/94,Mackey,Lynn,30,Seattle,King,WA,Female,White / Caucasian,10/5/19
+MP24126,8/28/04,Carver,Merrian,40,Seattle,King,WA,Female,White / Caucasian,12/5/17
+MP24171,11/19/13,Fletcher,Allen,30,Langley,Island,WA,Male,White / Caucasian,11/9/18
+MP24236,6/18/75,Collier,Tony,24,Wenatchee,Chelan,WA,Male,White / Caucasian,11/9/18
+MP24252,10/6/99,Smith,Gary,35,Everett,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP24291,2/5/83,Darlington,Mitchell,17,Snohomish,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP24542,3/27/14,Healy,Tyler,24,Tacoma,Pierce,WA,Male,White / Caucasian,6/27/19
+MP24661,8/7/83,Jordan,Raymond,50,Burlington,Skagit,WA,Male,White / Caucasian,11/4/19
+MP24746,3/19/05,Marl,Cynthia,45,Wenatchee,Chelan,WA,Female,White / Caucasian,11/9/18
+MP24763,10/5/13,Lovelady,Jason,38,Marblemount,Whatcom,WA,Male,White / Caucasian,5/29/19
+MP25072,5/25/02,Nelson,Ronnie,35,Moses Lake,Grant,WA,Male,White / Caucasian,6/20/19
+MP25421,2/15/14,Schmidt,Gina,48,Centralia,Lewis,WA,Female,White / Caucasian,11/20/18
+MP25713,3/1/62,Peters,Margaret,40,Seattle,King,WA,Female,White / Caucasian,10/5/19
+MP25714,2/20/70,Burke,Bertha,29,Port Angeles,Clallam,WA,Female,White / Caucasian,11/9/18
+MP25750,1/1/77,Glovick,Nancy,33,Aberdeen,Grays Harbor,WA,Female,White / Caucasian,8/27/19
+MP25756,8/5/80,Neslund,Rolf,79,Lopez Island,San Juan,WA,Male,White / Caucasian,8/22/18
+MP25757,5/1/85,Nguyen,Nhi,32,Port Angeles,Clallam,WA,Female,Asian,6/22/19
+MP25791,8/19/14,Uber,Christopher,54,Gig Harbor,Pierce,WA,Male,White / Caucasian,9/12/19
+MP25829,4/21/03,Woldseth,George,47,Kent,King,WA,Male,White / Caucasian,3/18/19
+MP25833,1/1/03,Diimmel,Jenny,51,Port Arthur,Clallam,WA,Female,White / Caucasian,11/9/18
+MP25877,1/10/14,Billman,Steven,26,Rochester,Thurston,WA,Male,White / Caucasian,7/17/19
+MP26046,1/4/14,Robinette,James,32,Marblemount,Skagit,WA,Male,White / Caucasian,11/1/19
+MP26142,9/10/14,Elford,Victor,84,Vancouver,Clark,WA,Male,White / Caucasian,5/14/19
+MP26144,7/7/14,Harper,Dennis,55,Bellingham,Whatcom,WA,Male,White / Caucasian,1/18/19
+MP26176,7/4/09,Adkins,John,53,Long Beach,Pacific,WA,Male,White / Caucasian,1/18/18
+MP26183,9/22/79,Ashmun,Russell,22,Olympia,Thurston,WA,Male,White / Caucasian,11/7/18
+MP26223,2/15/00,Skunk,Sarah,47,Seattle,King,WA,Female,Other,1/22/19
+MP26533,10/15/14,Venkatesh,Krishna,27,Oak Harbor,Island,WA,Male,Other,10/2/19
+MP26672,7/25/14,Koltsov,Sergey,22,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP26979,1/30/06,Tademy,Cris,61,Lakewood,Pierce,WA,Male,Black / African American,2/21/19
+MP26999,10/6/90,Hummel,Alice,46,Bellingham,Whatcom,WA,Female,White / Caucasian,1/18/19
+MP27091,8/24/90,Bartschot,Rita,40,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP27122,4/4/14,Dyer,Joyce,54,Tacoma,Pierce,WA,Female,White / Caucasian,9/12/19
+MP27129,10/29/09,Stover,Theodore,57,Anacortes,Skagit,WA,Male,White / Caucasian,11/1/19
+MP27152,8/6/82,Sellers,Pamela,26,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP27335,7/30/80,Foster,James,19,Steilacoom,Pierce,WA,Male,Black / African American,4/5/19
+MP27677,11/11/14,Walker,"John ""Clint""",48,Bellingham,Whatcom,WA,Male,White / Caucasian,5/29/19
+MP27708,6/11/14,Nations,Dustin,39,Concrete,Skagit,WA,Male,White / Caucasian,11/1/19
+MP27759,7/10/14,VanderHouwen,Joseph,25,Lynnwood,Snohomish,WA,Male,White / Caucasian,5/28/19
+MP27760,10/13/11,Brandley,Aaron,17,Vancouver,Clark,WA,Male,White / Caucasian,1/23/18
+MP27858,1/15/15,Schmidt,Wolfram,50,Redmond,King,WA,Male,White / Caucasian,10/5/19
+MP27869,2/2/09,Chan,Jian,46,Seattle,King,WA,Male,Asian,10/2/19
+MP28241,4/25/96,Koenig,Traudl,54,Port Orchard,Kitsap,WA,Female,White / Caucasian,11/20/18
+MP28243,4/25/96,Koenig,Donald,57,Port Orchard,Kitsap,WA,Male,White / Caucasian,11/20/18
+MP28337,9/1/95,Shoemaker,Rory,34,Everett,Snohomish,WA,Male,American Indian / Alaska Native,8/16/19
+MP28338,7/19/81,Williams,Alice,53,Marysville,Snohomish,WA,Female,White / Caucasian,8/16/19
+MP28356,4/29/14,Soderberg,Robert,52,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP28387,4/11/15,Miller,Brison,18,University Place,Pierce,WA,Male,White / Caucasian,1/23/18
+MP28473,3/5/90,Goddard,Jason,21,Clarkston,Asotin,WA,Male,White / Caucasian,7/11/19
+MP28479,8/31/98,Bennett,Pamela,49,Clarkston,Asotin,WA,Female,White / Caucasian,10/8/19
+MP28560,11/30/86,Seger,Dennis,50,Seattle,King,WA,Male,White / Caucasian,9/12/19
+MP28682,1/26/15,"Alexander, Jr.",Robert,65,Fox Island,Pierce,WA,Male,White / Caucasian,10/2/19
+MP28775,6/16/96,Nielson,Steven,37,Kirkland,King,WA,Male,White / Caucasian,3/29/19
+MP28799,5/12/00,Jolley,Spencer,25,Lacey,Thurston,WA,Male,White / Caucasian,10/7/19
+MP29283,6/26/15,Sutherland,Michael,20,Shoreline,King,WA,Male,White / Caucasian,10/5/19
+MP29413,1/6/99,Moilanen,Craig,46,Olympia,Thurston,WA,Male,White / Caucasian,7/15/19
+MP29570,7/21/15,Foco,Jeremiah,34,Bellevue,King,WA,Male,White / Caucasian,10/2/19
+MP29815,12/10/00,Thomas,Joseph,38,Battle Ground,Clark,WA,Male,White / Caucasian,3/28/19
+MP29875,3/1/11,Montgomery,John,25,Renton,King,WA,Male,Asian,7/16/19
+MP29885,6/9/15,Tilton,David,60,Trout Lake,Klickitat,WA,Male,White / Caucasian,8/14/19
+MP30450,5/6/62,Hannah,James,31,Auburn,King,WA,Male,White / Caucasian,10/6/19
+MP30608,11/14/14,Firth,Wesley,19,Vancouver,Clark,WA,Male,White / Caucasian,3/28/19
+MP30726,7/5/15,Feider,Jon,52,Tacoma,Pierce,WA,Male,White / Caucasian,6/27/19
+MP30727,9/17/15,Oldfield II,Glen,39,Lone Butte,Skamania,WA,Male,White / Caucasian,9/16/19
+MP30736,6/30/15,Longee,Rosalita,18,Wapato,Yakima,WA,Female,American Indian / Alaska Native,7/10/19
+MP30849,3/1/71,Hannigan,Janice,15,Wapato,Yakima,WA,Female,American Indian / Alaska Native,10/21/19
+MP31167,5/1/97,Vandemortel,Janette,40,Issaquah,King,WA,Female,White / Caucasian,9/19/18
+MP31304,7/10/15,Stotz,Chad,36,Yakima,Yakima,WA,Male,Multiple,3/28/19
+MP31388,11/25/81,Bullitt,Benjamin,24,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP31409,1/31/11,Collins,William,56,Woodway,Snohomish,WA,Male,White / Caucasian,1/23/18
+MP31475,7/26/15,Turner,Cody,24,Yakima,Yakima,WA,Male,White / Caucasian,9/11/19
+MP31485,12/11/74,Thomas,Marla,22,Anacortes,Skagit,WA,Female,White / Caucasian,9/18/18
+MP32122,10/31/78,Bonnell,Donna,35,Graham,Pierce,WA,Female,White / Caucasian,9/12/19
+MP32157,10/26/15,Andersen,William,54,Brainbridge Island,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP32262,12/11/15,Milton,Joshua,36,Bothell,King,WA,Male,White / Caucasian,10/2/19
+MP32263,12/3/15,Snow,Bret,32,Spokane,Spokane,WA,Male,White / Caucasian,9/6/19
+MP32345,11/3/15,Hastings,Deanne,35,Spokane,Spokane,WA,Female,White / Caucasian,10/2/19
+MP32384,12/4/11,Erb,Phil,58,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP32573,10/12/86,Wilker,Peggy,32,Tacoma,Pierce,WA,Female,White / Caucasian,12/13/18
+MP32596,11/17/10,McCulloch,Bruce,50,Coupeville,Island,WA,Male,White / Caucasian,5/15/19
+MP32744,2/19/01,Santoso,Hartanto,31,Kirkland,King,WA,Male,Asian,1/25/19
+MP32827,11/26/99,Mercado,Saul,26,Kennewick,Benton,WA,Male,Multiple,3/27/19
+MP32871,4/28/14,Vanzandt,Donna,32,Neilton,Grays Harbor,WA,Female,White / Caucasian,8/23/19
+MP32929,3/7/16,Posadas,Adam,30,Seattle,King,WA,Male,Asian,10/2/19
+MP33056,9/12/07,Haley,Lorie,54,Longview,Cowlitz,WA,Female,White / Caucasian,9/27/19
+MP33143,10/26/84,Pozar,Frank,61,Spokane,Spokane,WA,Male,White / Caucasian,10/2/19
+MP33166,9/11/15,Kearns,Chrysti,37,Tacoma,Pierce,WA,Female,White / Caucasian,6/27/19
+MP33193,5/25/14,Lomakin,David,22,Lake Stevens,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP33299,10/26/84,Pozar,Tessie,56,Spokane,Spokane,WA,Female,White / Caucasian,10/2/19
+MP33540,11/15/90,Sterbinsky,Barbara,31,Auburn,King,WA,Female,White / Caucasian,10/6/19
+MP33559,2/26/88,Hembd,Doris,71,Bremerton,Kitsap,WA,Female,White / Caucasian,10/2/19
+MP33570,4/1/16,Dhanani,Rizwan,46,Redmond,King,WA,Male,Other,10/6/19
+MP33927,2/24/16,Neubauer,John,46,Kelso,Cowlitz,WA,Male,White / Caucasian,11/9/18
+MP34013,6/2/16,Doyle,Gail,60,Olympia,Thurston,WA,Female,White / Caucasian,7/17/19
+MP34031,5/26/16,Miranda Jr.,Joseph,23,Granger,Yakima,WA,Male,Hispanic / Latino,3/27/19
+MP34045,12/31/13,Kircher,Kenton,49,Tacoma,Pierce,WA,Male,White / Caucasian,9/12/19
+MP34122,7/4/15,Foster,Douglas,47,Tacoma,Pierce,WA,Male,White / Caucasian,6/27/19
+MP34124,5/19/16,Schiendelman,Logan,19,Tumwater,Thurston,WA,Male,Black / African American,9/16/19
+MP34224,8/28/98,Perez-Alpizar,Jose,42,Kennewick,Benton,WA,Male,Multiple,2/14/19
+MP34388,6/20/16,Rubio-Montejano,Jessie,23,Wenatchee,Chelan,WA,Female,White / Caucasian,11/9/18
+MP34399,4/19/16,Christensen,Tyler,16,Edmonds,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP34550,7/6/16,Garcia,Michael,47,Colfax,Whitman,WA,Male,American Indian / Alaska Native,12/17/18
+MP34598,4/12/16,Chen,Qundan,26,Seattle,King,WA,Female,Asian,10/2/19
+MP34628,6/4/14,Leslie,Kenneth,46,Bridgeport,Okanogan,WA,Male,White / Caucasian,11/20/18
+MP34660,11/28/99,Bryant,Gary,32,Morton,Lewis,WA,Male,White / Caucasian,3/26/19
+MP34669,10/24/02,Lee,Ken,38,Seabeck,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP34860,11/6/14,Potter,Julia,6,Seattle,King,WA,Female,White / Caucasian,10/2/19
+MP35109,3/8/98,Saunders,Joel,44,Long Beach,Pacific,WA,Male,White / Caucasian,5/30/19
+MP35258,5/12/16,Schofield,Douglas,67,Centralia,Lewis,WA,Male,White / Caucasian,3/13/19
+MP35295,11/17/15,Lemmon,Levi,34,Vashon Island,King,WA,Male,White / Caucasian,11/20/18
+MP35364,10/22/03,McFarland,Alfred,32,Seattle,King,WA,Male,White / Caucasian,8/16/19
+MP35924,9/28/16,Burns,Jefferey,61,Tacoma,Pierce,WA,Male,White / Caucasian,6/27/19
+MP35935,2/15/62,Winget,Duane,23,Fort Lewis,Pierce,WA,Male,White / Caucasian,10/1/19
+MP35945,10/12/16,Fowler,Kris,34,White Pass,Yakima,WA,Male,White / Caucasian,8/16/19
+MP36014,10/1/15,Salas,Paul,44,Tacoma,Pierce,WA,Male,Multiple,9/12/19
+MP36024,10/13/16,Spohr,Erik,38,Buckley,Pierce,WA,Male,White / Caucasian,9/12/19
+MP36253,7/8/02,Hess,Mark,46,Ferndale,Thurston,WA,Male,White / Caucasian,12/17/18
+MP36290,7/24/03,Rhine,Michael,24,Vancouver,Clark,WA,Male,White / Caucasian,3/14/19
+MP36292,10/31/06,Hinman,Michael,41,Vancouver,Clark,WA,Male,White / Caucasian,7/5/18
+MP36294,3/14/99,Ellefson,Martin,38,Spokane,Spokane,WA,Male,American Indian / Alaska Native,10/2/19
+MP36338,10/10/16,Wagner,Christine,67,Olympia,Thurston,WA,Female,White / Caucasian,10/21/19
+MP36341,5/4/91,Petig,Leslie,47,Tracyton,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP36495,9/16/10,Rosas,Antonio,25,Lynnwood,Snohomish,WA,Male,Multiple,5/28/19
+MP36573,11/5/16,Quiba,Bernard,48,Bothell,Snohomish,WA,Male,Uncertain,8/16/19
+MP36697,12/24/16,Rozario,Matthew,22,Mount Vernon,Skagit,WA,Male,White / Caucasian,6/12/19
+MP36730,1/1/15,McConville,Justin,24,Toppenish,Yakima,WA,Male,American Indian / Alaska Native,5/9/19
+MP37064,10/4/16,Hyasman,Jerry,55,Copalis Beach,Grays Harbor,WA,Male,American Indian / Alaska Native,6/25/19
+MP37070,3/20/92,Fisher,Christie,44,Edmonds,Snohomish,WA,Female,White / Caucasian,7/30/19
+MP37072,7/26/92,Arnhold,Marilyn,38,Milton,Pierce,WA,Female,White / Caucasian,11/20/18
+MP37082,6/26/06,Rose,Katharine,48,Puyallup,Pierce,WA,Female,White / Caucasian,12/13/18
+MP37095,6/29/07,Walston,Christopher,35,Olympia,Thurston,WA,Male,White / Caucasian,7/15/19
+MP37096,5/30/06,DeVries,Cynthia,41,Lynnwood,Snohomish,WA,Female,White / Caucasian,5/28/19
+MP37100,1/5/16,Kuroda,Maria,48,Seattle,King,WA,Female,Asian,2/15/17
+MP37426,12/12/16,Neill,Antonio,22,Everett,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP37537,1/15/17,Wood,Michael,62,Tacoma,Pierce,WA,Male,White / Caucasian,11/4/19
+MP37906,3/31/17,Cleveland,Daniel,35,Index,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP38050,6/1/04,Wilson,Michelle,40,Kennewick,Benton,WA,Female,White / Caucasian,7/30/19
+MP38060,7/1/14,Williams,Tilana,20,Auburn,King,WA,Female,Asian,10/6/19
+MP38412,5/24/16,Perecz,Brandon,28,Sultan,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP38431,5/22/17,Kittler,Michael,38,Gig Harbor,Pierce,WA,Male,White / Caucasian,11/5/19
+MP38879,7/3/09,Hernandez,Juan,28,Yakima,Yakima,WA,Male,Hispanic / Latino,9/11/19
+MP39052,5/1/17,Kong,Steven,52,Federal Way,Pierce,WA,Male,Asian,9/13/17
+MP39439,3/11/16,Woodward,Jonathan,36,Des Moines,King,WA,Male,White / Caucasian,7/12/19
+MP39601,6/23/17,Goodell,Thomas,31,Oak Harbor,Island,WA,Male,White / Caucasian,11/4/19
+MP39761,6/30/17,Kirkpatrick,Warren,26,Transient,Skagit,WA,Male,White / Caucasian,11/5/19
+MP39979,8/1/79,Gutierrez,Gary,20,Wenatchee,Chelan,WA,Male,White / Caucasian,11/9/18
+MP40075,6/8/16,Haggard,Jamie,27,Kenmore,King,WA,Female,White / Caucasian,10/5/19
+MP40492,7/2/82,Ridley,Benjamin,15,Burien,King,WA,Male,White / Caucasian,10/5/19
+MP40817,10/28/90,Loran,Michelle,19,Kalama,Cowlitz,WA,Female,White / Caucasian,4/8/19
+MP40830,6/1/12,Zimmerman,Richard,64,Walla Walla,Walla Walla,WA,Male,White / Caucasian,8/23/18
+MP40957,3/28/82,Vandekamp,Nicholas,31,Whidbey Island,Island,WA,Male,White / Caucasian,5/15/19
+MP40996,5/6/96,Griffiths,Norman,52,Snohomish,Snohomish,WA,Male,White / Caucasian,8/14/19
+MP41033,11/26/86,Hampton,Robert,17,Port Orchard,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP41097,6/29/17,Johnson,Wilford,90,Longview,Cowlitz,WA,Male,White / Caucasian,4/8/19
+MP41167,11/15/16,Leon,Maria,17,Pasco,Franklin,WA,Female,Hispanic / Latino,4/18/19
+MP41194,11/19/17,Lamando Jr.,Sherwin,25,Issaquah,King,WA,Male,Multiple,11/5/19
+MP41353,10/21/17,Watson,Mayan,15,Coupeville,Island,WA,Female,White / Caucasian,5/15/19
+MP41418,7/25/87,Hanehan,Lawrence,37,Unknown,Stevens,WA,Male,White / Caucasian,6/25/19
+MP41832,11/19/17,Labelle,Suzanne,24,Issaquah,King,WA,Female,White / Caucasian,11/5/19
+MP41879,10/1/17,Grauman Jr.,Ricky,41,Westport,Grays Harbor,WA,Male,White / Caucasian,11/4/19
+MP42056,12/12/17,Seybold,Jessica,39,Arlington,Snohomish,WA,Female,White / Caucasian,11/4/19
+MP42254,1/1/16,Desorcy,Crystal,32,Tukwila,King,WA,Female,White / Caucasian,11/20/18
+MP42368,1/23/18,Hilkin,Jacob,24,Tulalip,Snohomish,WA,Male,White / Caucasian,8/16/19
+MP42389,3/31/16,Mcerlean,Kevin,42,Aberdeen,Grays Harbor,WA,Male,White / Caucasian,10/31/19
+MP42429,4/11/17,Walker,Brittany,19,Fife,Pierce,WA,Female,White / Caucasian,6/27/19
+MP42430,11/10/13,Mayer,Ryan,33,Olympia,Thurston,WA,Male,White / Caucasian,7/17/19
+MP42757,6/9/95,Briones-Madera,Juan,36,Tacoma,Pierce,WA,Male,Multiple,6/27/19
+MP42910,4/1/16,Seekins,Kevin,55,Vancouver,Skamania,WA,Male,White / Caucasian,12/14/18
+MP43367,9/16/17,Gutierrez,Rolando,44,Mabton,Yakima,WA,Male,Multiple,4/22/19
+MP50268,5/9/18,Hammer,Jeffrey,23,Brewster,Okanogan,WA,Male,White / Caucasian,6/22/19
+MP50435,5/25/18,Faubert,Jean-Marc,28,Whidbey Island,Island,WA,Male,White / Caucasian,11/4/19
+MP50723,2/22/18,Conde,Ashanti,27,Vancouver,Clark,WA,Female,Black / African American,5/14/19
+MP50894,6/22/18,Haije,Sharran,78,Gig Harbor,Pierce,WA,Female,White / Caucasian,11/4/19
+MP51030,6/12/93,Burgwinkel,Justin,21,JB Lewis-McChord,Pierce,WA,Male,White / Caucasian,7/31/19
+MP51083,3/26/16,Mackie,David,54,Vancouver,Clark,WA,Male,White / Caucasian,6/25/19
+MP51628,11/24/16,Anderson,Daraius,33,Vancouver,Clark,WA,Male,Black / African American,3/14/19
+MP51660,8/16/15,Nichols,Seville,39,Bellingham,Whatcom,WA,Female,Black / African American,1/18/19
+MP51798,8/1/18,Sayers,Samantha,27,Mount Baker-Snoqualmie National Forest,Snohomish,WA,Female,White / Caucasian,8/16/19
+MP52069,8/1/17,Wahsise Sr,Anthony,56,Wapato,Yakima,WA,Male,American Indian / Alaska Native,11/4/19
+MP52070,7/7/18,Canales,Jose,43,Harrah,Yakima,WA,Male,Hispanic / Latino,8/16/19
+MP52268,8/1/10,Sprague,Shane,34,Mountlake Terrace,Snohomish,WA,Male,White / Caucasian,10/3/19
+MP52300,6/26/18,Dachtler,Mariah,16,Kelso,Cowlitz,WA,Female,White / Caucasian,7/11/19
+MP52344,5/13/18,Sarkkinen,Robert,56,Battleground,Clark,WA,Male,White / Caucasian,11/5/19
+MP52458,6/18/18,Choc-Chum,Barbara,16,Kirkland,King,WA,Female,Hispanic / Latino,7/24/19
+MP52610,4/8/84,Vogt,Brien,30,Tacoma,King,WA,Male,White / Caucasian,10/8/19
+MP53018,5/11/18,Snarski,Paul,40,Auburn,King,WA,Male,White / Caucasian,11/5/19
+MP53157,9/1/09,Tucksen,John,28,Spanaway,Pierce,WA,Male,White / Caucasian,9/12/19
+MP53338,6/6/16,Grogan,John,79,Tukwila,King,WA,Male,White / Caucasian,8/28/19
+MP53755,1/17/18,Lagrou,Antonio,29,Spokane,Spokane,WA,Male,Multiple,10/2/19
+MP53779,11/10/83,Delano,William,34,Humptulips,Grays Harbor,WA,Male,White / Caucasian,6/25/19
+MP53780,9/15/86,Madden,Michael,32,Bellingham,Whatcom,WA,Male,White / Caucasian,6/4/19
+MP53781,6/8/94,Mendoza,Francisco,27,Toppenish,Yakima,WA,Male,Hispanic / Latino,5/23/19
+MP53782,2/23/95,Henson,James,56,Olympia,Thurston,WA,Male,White / Caucasian,7/17/19
+MP54740,1/1/78,Tweten,Glenn,23,Amanda Park,Grays Harbor,WA,Male,White / Caucasian,10/30/19
+MP54769,6/15/80,Frye,Darrel,21,Bellingham,Whatcom,WA,Male,White / Caucasian,8/17/19
+MP54989,7/14/17,Lang,Marty,50,Newport,Pend Oreille,WA,Male,White / Caucasian,11/5/19
+MP55036,10/18/18,Pepion,Michael,45,Seattle,King,WA,Male,White / Caucasian,10/23/19
+MP55059,10/21/85,Merrick,Roy,24,Port Orchard,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP55062,10/21/85,Merrick,Constance,20,Port Orchard,Kitsap,WA,Female,White / Caucasian,10/2/19
+MP55067,3/20/89,Moore,David,33,Seabeck,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP55069,3/20/89,Moore,Teresa,29,Seabeck,Kitsap,WA,Female,White / Caucasian,10/22/19
+MP55172,3/6/06,Smith,Esther,50,Everett,Snohomish,WA,Female,American Indian / Alaska Native,11/1/19
+MP55184,10/21/12,Muller,Louis,62,Elma,Grays Harbor,WA,Male,White / Caucasian,6/25/19
+MP55396,12/15/11,Williams,Jack,36,Port Orchard,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP55408,2/13/18,Claussen,Joseph,14,Seabeck,Kitsap,WA,Male,Multiple,10/2/19
+MP55448,6/30/14,Welling,Tyler,26,Tracyton,Kitsap,WA,Male,White / Caucasian,10/2/19
+MP55486,12/22/18,Tegerdine,Heather,41,Sequim,Clallam,WA,Female,White / Caucasian,11/4/19
+MP55490,6/20/06,Mason,Stephen,52,Sequim,Clallam,WA,Male,White / Caucasian,2/25/19
+MP55520,8/20/85,Moran,Colleen,24,Port Orchard,Kitsap,WA,Female,Multiple,10/22/19
+MP55525,11/26/86,Sigo,Frederick,22,Port Orchard,Kitsap,WA,Male,American Indian / Alaska Native,10/2/19
+MP55711,12/25/18,Graves,Jerry,69,Clarkston,Asotin,WA,Male,White / Caucasian,11/4/19
+MP55792,12/25/05,Price,Porsha,18,Seattle,King,WA,Female,Black / African American,10/2/19
+MP55866,3/3/18,Tafesse,Maereg,24,Seattle,King,WA,Male,Black / African American,10/24/19
+MP55949,6/14/82,Coulson,Timothy,25,Kirkland,King,WA,Male,White / Caucasian,3/13/19
+MP56026,1/13/09,Stafford-Yilmaz,Lynn,45,Bainbridge Island,Kitsap,WA,Female,White / Caucasian,3/28/19
+MP56181,12/15/18,Rich,Nathan,24,Pasco,Franklin,WA,Male,White / Caucasian,11/4/19
+MP56289,12/5/18,Arguenta,Veronica,15,Arlington,Snohomish,WA,Female,Hispanic / Latino,4/22/19
+MP56464,12/20/18,Hahn,Robert,20,Shoreline,King,WA,Male,Multiple,10/5/19
+MP56561,7/26/89,Reeves,Diane,23,Ferndale,Whatcom,WA,Female,White / Caucasian,7/1/19
+MP56618,1/14/15,Hayes,Nathan,38,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP56647,2/28/19,Anfeldt,Matthew,20,Rochester,Thurston,WA,Male,White / Caucasian,11/4/19
+MP57510,4/30/97,Elmore,Billy,71,Ephrata,Grant,WA,Male,White / Caucasian,5/23/19
+MP57578,7/10/01,Raines,Roberta,19,Toppenish,Yakima,WA,Female,American Indian / Alaska Native,10/8/19
+MP57683,4/1/19,Rzesutek,Kyle,30,Tacoma,Pierce,WA,Male,White / Caucasian,11/4/19
+MP57695,5/1/18,Betty,Karl,23,Walla Wall,Walla Walla,WA,Male,White / Caucasian,10/3/19
+MP57981,11/10/16,Brazeau,Paul,54,Springdale,Stevens,WA,Male,White / Caucasian,6/25/19
+MP58044,1/1/83,Trower,Robert,25,Bremerton,Kitsap,WA,Male,Multiple,10/2/19
+MP58219,3/16/19,Denault,Raymond,38,Oakville,Grays Harbor,WA,Male,White / Caucasian,11/4/19
+MP58397,2/2/04,Keesy,David,33,Tacoma,Pierce,WA,Male,American Indian / Alaska Native,8/28/19
+MP58403,9/4/81,Ashland,Mark,27,Seattle,King,WA,Male,White / Caucasian,10/2/19
+MP58691,6/7/19,Cleary,Jon,47,Toppenish,Yakima,WA,Male,White / Caucasian,11/4/19
+MP58725,6/30/19,Lundy,Susan,58,Olympia,Thurston,WA,Female,White / Caucasian,11/4/19
+MP59028,10/1/88,Sayler,Jarvis,37,Vancouver,Clark,WA,Male,White / Caucasian,10/21/19
+MP59172,6/7/19,Hilderbrand,Josiah,25,Toppenish,Yakima,WA,Male,White / Caucasian,11/4/19
+MP59386,10/3/13,Rios-Gonzalez,Esthela,30,Toppenish,Yakima,WA,Female,Hispanic / Latino,8/16/19
+MP59424,7/3/19,McAlister,Heather,27,Goldendale,Klickitat,WA,Female,White / Caucasian,11/4/19
+MP59811,7/18/19,Hayes,Thomas,41,Long Beach,Pacific,WA,Male,Hispanic / Latino,9/5/19
+MP60543,3/20/19,Pagel,Jacqueline,47,Spokane,Spokane,WA,Female,White / Caucasian,11/4/19
+MP60604,7/6/19,Chirinos Maradiaga,Erin,16,Mountlake Terrace,Snohomish,WA,Male,Hispanic / Latino,10/9/19
+MP60692,10/19/17,Courreges,Joel,15,Sumner,Pierce,WA,Male,White / Caucasian,11/5/19
+MP60803,6/6/19,Kuhnhausen,Nikolas,17,Vancouver,Clark,WA,Male,White / Caucasian,10/11/19
+MP60883,9/2/19,Kim,Alexandria,65,Lynnwood,Snohomish,WA,Female,Asian,10/22/19
+MP61177,10/17/19,Lakoduk,Rachel,28,Marblemount,Skagit,WA,Female,White / Caucasian,11/1/19
