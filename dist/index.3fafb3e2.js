@@ -26289,8 +26289,9 @@ try {
   var _componentsTableauViz7EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz7Embed);
   var _componentsTableauViz8Embed = require('./components/TableauViz8Embed');
   var _componentsTableauViz8EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz8Embed);
+  var _componentsWriteUp = require('./components/WriteUp');
+  var _componentsWriteUpDefault = _parcelHelpers.interopDefault(_componentsWriteUp);
   var _jsxFileName = "/Users/ahnguyen27/Desktop/INFO474/react-parcel-starter/src/App.js";
-  /*import WriteUp from './components/WriteUp'*/
   const viewHeight = 500;
   const viewWidth = 500;
   const App = () => {
@@ -26299,70 +26300,77 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 20,
+          lineNumber: 19,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("h2", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 21,
+          lineNumber: 20,
           columnNumber: 9
         }
-      }, "Brief Introduction & Write Up"), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz1EmbedDefault.default, {
+      }, "Brief Introduction & Write Up"), /*#__PURE__*/_reactDefault.default.createElement(_componentsWriteUpDefault.default, {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 23,
+          lineNumber: 21,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz1EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22,
           columnNumber: 9
         }
       }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz2EmbedDefault.default, {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 24,
+          lineNumber: 23,
           columnNumber: 9
         }
       }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz3EmbedDefault.default, {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25,
+          lineNumber: 24,
           columnNumber: 9
         }
       }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz4EmbedDefault.default, {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 26,
+          lineNumber: 25,
           columnNumber: 9
         }
       }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz5EmbedDefault.default, {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 27,
+          lineNumber: 26,
           columnNumber: 9
         }
       }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz6EmbedDefault.default, {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 28,
+          lineNumber: 27,
           columnNumber: 9
         }
       }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz7EmbedDefault.default, {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 29,
+          lineNumber: 28,
           columnNumber: 9
         }
       }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz8EmbedDefault.default, {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 30,
+          lineNumber: 29,
           columnNumber: 9
         }
       }))
@@ -26378,7 +26386,7 @@ try {
   window.$RefreshSig$ = prevRefreshSig;
 }
 
-},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f","./components/TableauViz1Embed":"46RMF","./components/TableauViz2Embed":"6nA5U","./components/TableauViz3Embed":"78rJA","./components/TableauViz4Embed":"R3yPK","./components/TableauViz5Embed":"6u9D9","./components/TableauViz6Embed":"5If7l","./components/TableauViz7Embed":"32vTI","./components/TableauViz8Embed":"6lj3T"}],"5gA8y":[function(require,module,exports) {
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f","./components/TableauViz1Embed":"46RMF","./components/TableauViz2Embed":"6nA5U","./components/TableauViz3Embed":"78rJA","./components/TableauViz4Embed":"R3yPK","./components/TableauViz5Embed":"6u9D9","./components/TableauViz6Embed":"5If7l","./components/TableauViz7Embed":"32vTI","./components/TableauViz8Embed":"6lj3T","./components/WriteUp":"6Vff0"}],"5gA8y":[function(require,module,exports) {
 "use strict";
 
 exports.interopDefault = function (a) {
@@ -26869,6 +26877,95 @@ try {
   exports.default = TabViz8Embed;
   var _c;
   $RefreshReg$(_c, "TabViz8Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"6Vff0":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _reactDefault = _parcelHelpers.interopDefault(_react);
+  var _jsxFileName = "/Users/ahnguyen27/Desktop/INFO474/react-parcel-starter/src/components/WriteUp.js";
+  function WriteUp() {
+    return (
+      /*#__PURE__*/_reactDefault.default.createElement("div", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 5,
+          columnNumber: 5
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 6,
+          columnNumber: 7
+        }
+      }, "The dataset that I selected is on missing persons cases in Washington state with data from 1951 to 2019 (obtained on the National Missing and Unidentified Persons System (NamUs) website). There are a total of 676 open cases in the dataset. There are many variables contained in this dataset spanning from race, age, county, date of last contact, etc. The data types include categorical, numerical, geographical, dates, etc. The three initial questions I wrote down prior to doing any exploratory data analysis:"), /*#__PURE__*/_reactDefault.default.createElement("ol", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 7,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 8,
+          columnNumber: 9
+        }
+      }, "Which counties have the most missing persons cases?"), /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9,
+          columnNumber: 9
+        }
+      }, "What is the average age of a missing person in WA?"), /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10,
+          columnNumber: 9
+        }
+      }, "Which racial group has the most open cases?")), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 12,
+          columnNumber: 7
+        }
+      }, "I wanted to put an emphasis on location, age, and race (and gender) because these are all facts or information that would be communicated by the police or the media if they were to publicly present an active missing person’s case. "), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 13,
+          columnNumber: 7
+        }
+      }, "The analysis process was broken down into three parts. The first part was centered on understanding the data and the variables it contained. I knew that in order to effectively analyze the data, I would have to understand the information that was provided but also the information that was not. The second part of my analysis process was writing down questions or possible factors that would contribute to someone going missing or to someone being found. For example, I had to take into account police relations with different communities and how that would affect the dataset. White/Caucasians are more likely to trust law enforcement, so the rates at which they would report a missing person may be higher than that of someone from a marginalized community. Another thing I had to consider is the media. White women are most likely to be found because they garner the most attention at the media level. The final part of my analysis process was creating visualizations to answer any existing questions or lead to other questions/exploration of potential trends or patterns. For most of the visualizations, I did not do any data transformations. However, for the ones I did, I did a percent of total data transformation because I wanted a more general outlook rather than raw numbers. Sometimes people do not like looking at raw numbers and having to compute things themselves, so a percent of total data transformation enables people to capture a broad overview. "), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 14,
+          columnNumber: 7
+        }
+      }, "The main lessons I learned from this assignment have to do with data limitations, asking questions about the data, and presenting visualizations. For data limitations, I had to consider what the dataset was leaving out and what it included. For instance, I was hoping the data set would include information regarding criminal histories even if it a simple yes/no to if the person had prior convictions, or additional variables that would provide more insight into the individual’s life. This information would be valuable in helping to understand why or what led to the person going missing in the first place. Another takeaway from this assignment is asking the right questions/coming up with questions. The difficult thing about analyzing data is if you fail to come up with all possible questions/avenues, then you can miss out on important insights. When coming up with my questions, I had to make sure that they considered different aspects of the data and that they could be answered with the information provided in the dataset. The last main lesson I learned was about choosing which visualizations would be most useful in conveying information. I had to experiment with different types of visualizations and data transformations until I could achieve a visualization that would best represent the information to a wide audience. "))
+    );
+  }
+  _c = WriteUp;
+  exports.default = WriteUp;
+  var _c;
+  $RefreshReg$(_c, "WriteUp");
   helpers.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
