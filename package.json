@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.html",
-  "type":"module",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url https://alycianguyenn.github.io/react-parcel-example-1/; rm -rf docs; mv dist docs;",
