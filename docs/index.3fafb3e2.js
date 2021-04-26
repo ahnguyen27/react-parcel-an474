@@ -1055,11 +1055,12 @@ try {
   var _App = require("./App");
   var _AppDefault = _parcelHelpers.interopDefault(_App);
   var _jsxFileName = "/Users/ahnguyen27/Desktop/INFO474/react-parcel-starter/src/index.js";
+  /*global d3*/
   _reactDomDefault.default.render(/*#__PURE__*/_reactDefault.default.createElement(_AppDefault.default, {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 5,
+      lineNumber: 6,
       columnNumber: 17
     }
   }), document.querySelector("#root"));
@@ -26272,114 +26273,107 @@ try {
   _parcelHelpers.defineInteropFlag(exports);
   var _react = require("react");
   var _reactDefault = _parcelHelpers.interopDefault(_react);
+  var _componentsTableauViz1Embed = require('./components/TableauViz1Embed');
+  var _componentsTableauViz1EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz1Embed);
+  var _componentsTableauViz2Embed = require('./components/TableauViz2Embed');
+  var _componentsTableauViz2EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz2Embed);
+  var _componentsTableauViz3Embed = require('./components/TableauViz3Embed');
+  var _componentsTableauViz3EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz3Embed);
+  var _componentsTableauViz4Embed = require('./components/TableauViz4Embed');
+  var _componentsTableauViz4EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz4Embed);
+  var _componentsTableauViz5Embed = require('./components/TableauViz5Embed');
+  var _componentsTableauViz5EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz5Embed);
+  var _componentsTableauViz6Embed = require('./components/TableauViz6Embed');
+  var _componentsTableauViz6EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz6Embed);
+  var _componentsTableauViz7Embed = require('./components/TableauViz7Embed');
+  var _componentsTableauViz7EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz7Embed);
+  var _componentsTableauViz8Embed = require('./components/TableauViz8Embed');
+  var _componentsTableauViz8EmbedDefault = _parcelHelpers.interopDefault(_componentsTableauViz8Embed);
+  var _componentsWriteUp = require('./components/WriteUp');
+  var _componentsWriteUpDefault = _parcelHelpers.interopDefault(_componentsWriteUp);
   var _jsxFileName = "/Users/ahnguyen27/Desktop/INFO474/react-parcel-starter/src/App.js";
   const viewHeight = 500;
   const viewWidth = 500;
   const App = () => {
     return (
-      /*#__PURE__*/_reactDefault.default.createElement("svg", {
-        style: {
-          border: "1px solid lightgrey",
-          width: viewWidth,
-          height: viewHeight
-        },
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 9,
-          columnNumber: 9
-        }
-      }, /*#__PURE__*/_reactDefault.default.createElement("circle", {
-        cx: 20,
-        cy: 20,
-        r: "5",
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 13,
-          columnNumber: 13
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
-        x: 200,
-        y: 200,
-        width: 10,
-        height: 10,
-        fill: "rgb(230, 230, 230)",
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 14,
-          columnNumber: 13
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
-        x: 212,
-        y: 200,
-        width: 10,
-        height: 10,
-        fill: "rgb(230, 230, 230)",
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 15,
-          columnNumber: 13
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
-        x: 224,
-        y: 200,
-        width: 10,
-        height: 10,
-        fill: "rgb(230, 230, 230)",
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 16,
-          columnNumber: 13
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
-        x: 236,
-        y: 200,
-        width: 10,
-        height: 10,
-        fill: "rgb(230, 230, 230)",
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 17,
-          columnNumber: 13
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
-        x: 248,
-        y: 200,
-        width: 10,
-        height: 10,
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 18,
-          columnNumber: 13
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("line", {
-        x1: 20,
-        y1: viewHeight - 20,
-        x2: 150,
-        y2: 100,
-        stroke: "black",
+      /*#__PURE__*/_reactDefault.default.createElement("div", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 19,
-          columnNumber: 13
+          columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("text", {
-        x: "20",
-        y: "35",
+      }, /*#__PURE__*/_reactDefault.default.createElement("h2", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 20,
-          columnNumber: 13
+          columnNumber: 9
         }
-      }, "Price history of 100 randomly selected Pokemon cards"))
+      }, "Brief Introduction & Write Up"), /*#__PURE__*/_reactDefault.default.createElement(_componentsWriteUpDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz1EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz2EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 23,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz3EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz4EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz5EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 26,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz6EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 27,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz7EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 28,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement(_componentsTableauViz8EmbedDefault.default, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 29,
+          columnNumber: 9
+        }
+      }))
     );
   };
   _c = App;
@@ -26392,7 +26386,7 @@ try {
   window.$RefreshSig$ = prevRefreshSig;
 }
 
-},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"5gA8y":[function(require,module,exports) {
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f","./components/TableauViz1Embed":"46RMF","./components/TableauViz2Embed":"6nA5U","./components/TableauViz3Embed":"78rJA","./components/TableauViz4Embed":"R3yPK","./components/TableauViz5Embed":"6u9D9","./components/TableauViz6Embed":"5If7l","./components/TableauViz7Embed":"32vTI","./components/TableauViz8Embed":"6lj3T","./components/WriteUp":"6Vff0"}],"5gA8y":[function(require,module,exports) {
 "use strict";
 
 exports.interopDefault = function (a) {
@@ -26591,6 +26585,393 @@ function registerExportsForReactRefresh(module) {
   }
 }
 
-},{"react-refresh/runtime":"592mh"}]},["1j6wU","3Imd1","5rkFb"], "5rkFb", "parcelRequire9230")
+},{"react-refresh/runtime":"592mh"}],"46RMF":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _s = $RefreshSig$();
+  const {tableau} = window;
+  function TabViz1Embed() {
+    _s();
+    /*const ref = useRef(null);*/
+    const placeholder = document.getElementById("vizHolder1");
+    const url = "https://public.tableau.com/views/MissingPersonsDemo/Dashboard1";
+    const options = {
+      device: "desktop"
+    };
+    function initViz() {
+      /*new tableau.Viz(ref.current, url, options);*/
+      new tableau.Viz(placeholder, url, options);
+    }
+    _react.useEffect(() => {
+      initViz();
+    }, []);
+    return null;
+  }
+  _s(TabViz1Embed, "OD7bBpZva5O2jO+Puf00hKivP7c=");
+  _c = TabViz1Embed;
+  exports.default = TabViz1Embed;
+  var _c;
+  $RefreshReg$(_c, "TabViz1Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"6nA5U":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _s = $RefreshSig$();
+  const {tableau} = window;
+  function TabViz2Embed() {
+    _s();
+    const placeholder = document.getElementById("vizHolder2");
+    const url = "https://public.tableau.com/views/MissingPersonsDemo/Dashboard2";
+    const options = {
+      device: "desktop"
+    };
+    function initViz() {
+      new tableau.Viz(placeholder, url, options);
+    }
+    _react.useEffect(() => {
+      initViz();
+    }, []);
+    return null;
+  }
+  _s(TabViz2Embed, "OD7bBpZva5O2jO+Puf00hKivP7c=");
+  _c = TabViz2Embed;
+  exports.default = TabViz2Embed;
+  var _c;
+  $RefreshReg$(_c, "TabViz2Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"78rJA":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _s = $RefreshSig$();
+  const {tableau} = window;
+  function TabViz3Embed() {
+    _s();
+    const placeholder = document.getElementById("vizHolder3");
+    const url = "https://public.tableau.com/views/MissingPersonsDemo/Dashboard3";
+    const options = {
+      device: "desktop"
+    };
+    function initViz() {
+      new tableau.Viz(placeholder, url, options);
+    }
+    _react.useEffect(() => {
+      initViz();
+    }, []);
+    return null;
+  }
+  _s(TabViz3Embed, "OD7bBpZva5O2jO+Puf00hKivP7c=");
+  _c = TabViz3Embed;
+  exports.default = TabViz3Embed;
+  var _c;
+  $RefreshReg$(_c, "TabViz3Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"R3yPK":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _s = $RefreshSig$();
+  const {tableau} = window;
+  function TabViz4Embed() {
+    _s();
+    const placeholder = document.getElementById("vizHolder4");
+    const url = "https://public.tableau.com/views/MissingPersonsDemo/Dashboard4";
+    const options = {
+      device: "desktop"
+    };
+    function initViz() {
+      new tableau.Viz(placeholder, url, options);
+    }
+    _react.useEffect(() => {
+      initViz();
+    }, []);
+    return null;
+  }
+  _s(TabViz4Embed, "OD7bBpZva5O2jO+Puf00hKivP7c=");
+  _c = TabViz4Embed;
+  exports.default = TabViz4Embed;
+  var _c;
+  $RefreshReg$(_c, "TabViz4Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"6u9D9":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _s = $RefreshSig$();
+  const {tableau} = window;
+  function TabViz5Embed() {
+    _s();
+    const placeholder = document.getElementById("vizHolder5");
+    const url = "https://public.tableau.com/views/MissingPersonsDemo/Dashboard5";
+    const options = {
+      device: "desktop"
+    };
+    function initViz() {
+      new tableau.Viz(placeholder, url, options);
+    }
+    _react.useEffect(() => {
+      initViz();
+    }, []);
+    return null;
+  }
+  _s(TabViz5Embed, "OD7bBpZva5O2jO+Puf00hKivP7c=");
+  _c = TabViz5Embed;
+  exports.default = TabViz5Embed;
+  var _c;
+  $RefreshReg$(_c, "TabViz5Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"5If7l":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _s = $RefreshSig$();
+  const {tableau} = window;
+  function TabViz6Embed() {
+    _s();
+    const placeholder = document.getElementById("vizHolder6");
+    const url = "https://public.tableau.com/views/MissingPersonsDemo/Dashboard6";
+    const options = {
+      device: "desktop"
+    };
+    function initViz() {
+      new tableau.Viz(placeholder, url, options);
+    }
+    _react.useEffect(() => {
+      initViz();
+    }, []);
+    return null;
+  }
+  _s(TabViz6Embed, "OD7bBpZva5O2jO+Puf00hKivP7c=");
+  _c = TabViz6Embed;
+  exports.default = TabViz6Embed;
+  var _c;
+  $RefreshReg$(_c, "TabViz6Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"32vTI":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _s = $RefreshSig$();
+  const {tableau} = window;
+  function TabViz7Embed() {
+    _s();
+    const placeholder = document.getElementById("vizHolder7");
+    const url = "https://public.tableau.com/views/MissingPersonsDemo/Dashboard7";
+    const options = {
+      device: "desktop"
+    };
+    function initViz() {
+      new tableau.Viz(placeholder, url, options);
+    }
+    _react.useEffect(() => {
+      initViz();
+    }, []);
+    return null;
+  }
+  _s(TabViz7Embed, "OD7bBpZva5O2jO+Puf00hKivP7c=");
+  _c = TabViz7Embed;
+  exports.default = TabViz7Embed;
+  var _c;
+  $RefreshReg$(_c, "TabViz7Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"6lj3T":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _s = $RefreshSig$();
+  const {tableau} = window;
+  function TabViz8Embed() {
+    _s();
+    const placeholder = document.getElementById("vizHolder8");
+    const url = "https://public.tableau.com/views/MissingPersonsDemo/Dashboard8";
+    const options = {
+      device: "desktop"
+    };
+    function initViz() {
+      new tableau.Viz(placeholder, url, options);
+    }
+    _react.useEffect(() => {
+      initViz();
+    }, []);
+    return null;
+  }
+  _s(TabViz8Embed, "OD7bBpZva5O2jO+Puf00hKivP7c=");
+  _c = TabViz8Embed;
+  exports.default = TabViz8Embed;
+  var _c;
+  $RefreshReg$(_c, "TabViz8Embed");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}],"6Vff0":[function(require,module,exports) {
+var helpers = require("../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+  _parcelHelpers.defineInteropFlag(exports);
+  var _react = require("react");
+  var _reactDefault = _parcelHelpers.interopDefault(_react);
+  var _jsxFileName = "/Users/ahnguyen27/Desktop/INFO474/react-parcel-starter/src/components/WriteUp.js";
+  function WriteUp() {
+    return (
+      /*#__PURE__*/_reactDefault.default.createElement("div", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 5,
+          columnNumber: 5
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 6,
+          columnNumber: 7
+        }
+      }, "The dataset that I selected is on missing persons cases in Washington state with data from 1951 to 2019 (obtained on the National Missing and Unidentified Persons System (NamUs) website). There are a total of 676 open cases in the dataset. There are many variables contained in this dataset spanning from race, age, county, date of last contact, etc. The data types include categorical, numerical, geographical, dates, etc. The three initial questions I wrote down prior to doing any exploratory data analysis:"), /*#__PURE__*/_reactDefault.default.createElement("ol", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 7,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 8,
+          columnNumber: 9
+        }
+      }, "Which counties have the most missing persons cases?"), /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9,
+          columnNumber: 9
+        }
+      }, "What is the average age of a missing person in WA?"), /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10,
+          columnNumber: 9
+        }
+      }, "Which racial group has the most open cases?")), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 12,
+          columnNumber: 7
+        }
+      }, "I wanted to put an emphasis on location, age, and race (and gender) because these are all facts or information that would be communicated by the police or the media if they were to publicly present an active missing person’s case. "), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 13,
+          columnNumber: 7
+        }
+      }, "The analysis process was broken down into three parts. The first part was centered on understanding the data and the variables it contained. I knew that in order to effectively analyze the data, I would have to understand the information that was provided but also the information that was not. The second part of my analysis process was writing down questions or possible factors that would contribute to someone going missing or to someone being found. For example, I had to take into account police relations with different communities and how that would affect the dataset. White/Caucasians are more likely to trust law enforcement, so the rates at which they would report a missing person may be higher than that of someone from a marginalized community. Another thing I had to consider is the media. White women are most likely to be found because they garner the most attention at the media level. The final part of my analysis process was creating visualizations to answer any existing questions or lead to other questions/exploration of potential trends or patterns. For most of the visualizations, I did not do any data transformations. However, for the ones I did, I did a percent of total data transformation because I wanted a more general outlook rather than raw numbers. Sometimes people do not like looking at raw numbers and having to compute things themselves, so a percent of total data transformation enables people to capture a broad overview. "), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 14,
+          columnNumber: 7
+        }
+      }, "The main lessons I learned from this assignment have to do with data limitations, asking questions about the data, and presenting visualizations. For data limitations, I had to consider what the dataset was leaving out and what it included. For instance, I was hoping the data set would include information regarding criminal histories even if it a simple yes/no to if the person had prior convictions, or additional variables that would provide more insight into the individual’s life. This information would be valuable in helping to understand why or what led to the person going missing in the first place. Another takeaway from this assignment is asking the right questions/coming up with questions. The difficult thing about analyzing data is if you fail to come up with all possible questions/avenues, then you can miss out on important insights. When coming up with my questions, I had to make sure that they considered different aspects of the data and that they could be answered with the information provided in the dataset. The last main lesson I learned was about choosing which visualizations would be most useful in conveying information. I had to experiment with different types of visualizations and data transformations until I could achieve a visualization that would best represent the information to a wide audience. "))
+    );
+  }
+  _c = WriteUp;
+  exports.default = WriteUp;
+  var _c;
+  $RefreshReg$(_c, "WriteUp");
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+
+},{"react":"3b2NM","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","../../node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"4Jj4f"}]},["1j6wU","3Imd1","5rkFb"], "5rkFb", "parcelRequire9230")
 
 //# sourceMappingURL=index.3fafb3e2.js.map
