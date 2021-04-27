@@ -7,11 +7,11 @@
     <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
   </head>
   <body>
-    <h1>Exploratory Data Analysis of a Missing Persons in Washington Dataset</h1> 
+    <h1>Exploratory Data Analysis of a Missing Persons in Washington Dataset</h1>
     <div id="root"></div>
     <div id="container1">
       <div id="vizHolder1"></div>
-      <p>The displayed map shows the distribution of number of cases by county. The more cases there are, the darker the color as indicated by the scale on the left-hand side. The county with the most missing person cases is King County, with 193. Pierce county has the second most cases with 110. Furthermore, there are counties with not missing persons cases. </p>
+      <p>The displayed map shows the distribution of number of cases by county. The more cases there are, the darker the color as indicated by the scale on the left-hand side. The county with the most missing person cases is King County, with 193. Pierce county has the second most cases with 110. Furthermore, there are counties with no missing persons cases. </p>
     </div>
     <br />
     <div id="container2">
@@ -41,12 +41,17 @@
     <br />
     <div id="container7">
       <div id="vizHolder7"></div>
-      <p>This bar chart examines the cases by race and gender, except this it looks at the raw data. This chart was created to further explore the missing persons data by race. As mentioned before, White/Caucasians comprise the most cases with a total of 512 cases. When also looking at gender, it is noticeable that there are more males missing than females. </p>
+      <p>This bar chart examines the cases by race and gender, except this looks at the raw data. This chart was created to further explore the missing persons data by race. As mentioned before, White/Caucasians comprise the most cases with a total of 512 cases. When also looking at gender, it is noticeable that there are more males missing than females.  </p>
     </div>
     <br />
     <div id="container8">
       <div id="vizHolder8"></div>
       <p>Similar to the previous chart, this chart also looks at race and gender. However, this chart only focuses on non-White groups as the previous chart was unable to show the data for POC groups as clearly since White/Caucasians represented the majority of the data. When looking at these groups, African Americans have the most missing person cases followed by Native Americans. When looking at gender, there are more males missing than females overall.</p>
+    </div>
+    <br />
+    <div id="conclusion">
+      <h2>Summary</h2>
+      <p>Revisiting the initial questions at the beginning, the county with the most missing person cases is King County with 193. Through further exploration, Seattle, which is located in King County, has the most cases for a city in the dataset with 101 active cases. The second question I had surrounding this dataset revolved around age. Rather than looking for the average age in the dataset, I broke it down by racial group. The group with the lowest average age of a missing person is Hispanic/Latino at 22. The racial group with the highest average age of a missing person is White/Caucasian at 36. Though adults comprise the large majority of the active cases, when looking solely at minors, the 17-year age group has the most cases. The final question had to do with which racial group had the highest number of cases. The answer turned out to be White/Caucasian. This group makes up about 76% of the open missing person cases. When looking at gender as well, there are more males missing than females for most of the racial groups. </p>
     </div>
     <script src="src/index.js"></script>
     <div id="view"></div>
